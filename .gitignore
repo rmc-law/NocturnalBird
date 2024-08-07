@@ -1,0 +1,9 @@
+*.pptx
+*.ppt
+*.pdf
+*.db
+*/.ipynb_checkpoints
+*.docx
+*/*.docx
+writing
+results
