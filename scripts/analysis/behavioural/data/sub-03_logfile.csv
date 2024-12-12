@@ -1,0 +1,901 @@
+item_nr,participant,block_nr,trial_nr,set_nr,word1,word2,probe,response,RT,hit,Unnamed: 10,condition,experiment,zipf_adj,zipf_noun,freq_dep,freq_seq,length_adj,length_noun,composition,denotation,concreteness,specificity
+253,03,1,1,43,true,vein,,,,,,concrete_subsective,compose,5.33,3.58,0.0,0.0,4,4,phrase,subsective,concrete,
+886,03,1,2,96,rjdnw,vehicle,,,,,,low,specificity,0.0,4.52,,,5,7,word,,,low
+871,03,1,3,91,rvqf,vegetable,,,,,,low,specificity,0.0,4.18,,,4,9,word,,,low
+814,03,1,4,72,ypdcglkc,ruler,,,,,,low,specificity,0.0,3.63,,,8,5,word,,,low
+75,03,1,5,13,mtpv,baggage,,,,,,concrete_baseline,compose,0.0,3.49,0.0,0.0,4,7,word,baseline,concrete,
+879,03,1,6,93,htbqzylm,pumpkin,,,,,,high,specificity,0.0,3.79,,,8,7,word,,,high
+368,03,1,7,62,spurious,pudding,,,,,,concrete_privative,compose,2.68,4.44,0.0,0.0,8,7,phrase,privative,concrete,
+861,03,1,8,87,kmlsdjtw,aubergine,,,,,,high,specificity,0.0,3.46,,,8,9,word,,,high
+235,03,1,9,40,good,wreck,,,,,,concrete_subsective,compose,6.35,3.96,0.0,0.0,4,5,phrase,subsective,concrete,
+813,03,1,10,71,kmlsdjtw,stream,,,,,,high,specificity,0.0,4.13,,,8,6,word,,,high
+836,03,1,11,79,melodic,sound,,,,,,mid,specificity,2.68,5.16,,,7,5,phrase,,,mid
+453,03,1,12,76,zrtqgfplh,novel,,,,,,concrete_baseline,compose,0.0,4.43,0.0,0.0,9,5,word,baseline,concrete,
+863,03,1,13,88,orange,vegetable,,,,,,mid,specificity,4.64,4.18,,,6,9,phrase,,,mid
+276,03,1,14,46,bxfjwts,deceit,,,,,,abstract_baseline,compose,0.0,3.01,0.0,0.0,7,6,word,baseline,abstract,
+331,03,1,15,56,typical,doctor,,,,,,concrete_subsective,compose,4.51,5.02,0.0,0.0,7,6,phrase,subsective,concrete,
+532,03,1,16,89,special,dissent,Is there disagreement?,Ry,1.5929110050201416,0.0,,abstract_subsective,compose,5.32,3.22,1.84e-10,1.4e-10,7,7,phrase,subsective,abstract,
+264,03,1,17,44,zrtqgfplh,virtue,,,,,,abstract_baseline,compose,0.0,3.51,0.0,0.0,9,6,word,baseline,abstract,
+397,03,1,18,67,genuine,swan,,,,,,concrete_subsective,compose,4.37,3.98,0.0,0.0,7,4,phrase,subsective,concrete,
+666,03,1,19,22,ypdcglkc,sphynx,,,,,,high,specificity,0.0,1.47,,,8,6,word,,,high
+190,03,1,20,32,typical,mistake,,,,,,abstract_subsective,compose,4.51,4.79,0.0,0.0,7,7,phrase,subsective,abstract,
+57,03,1,21,10,ptrgsbkv,barrier,,,,,,concrete_baseline,compose,0.0,4.04,0.0,0.0,8,7,word,baseline,concrete,
+635,03,1,22,12,farm,building,,,,,,mid,specificity,4.81,5.24,,,4,8,phrase,,,mid
+788,03,1,23,63,solitary,person,,,,,,mid,specificity,3.59,5.34,,,8,6,phrase,,,mid
+234,03,1,24,39,rjdnw,romance,,,,,,abstract_baseline,compose,0.0,4.09,0.0,0.0,5,7,word,baseline,abstract,
+348,03,1,25,58,wvcnz,pronoun,,,,,,abstract_baseline,compose,0.0,2.09,0.0,0.0,5,7,word,baseline,abstract,
+831,03,1,26,77,mtpv,crisps,,,,,,high,specificity,0.0,3.91,,,4,6,word,,,high
+195,03,1,27,33,kmlsdjtw,salt,,,,,,concrete_baseline,compose,0.0,4.69,0.0,0.0,8,4,word,baseline,concrete,
+187,03,1,28,32,bad,battle,,,,,,concrete_subsective,compose,5.56,4.94,0.0,0.0,3,6,phrase,subsective,concrete,
+873,03,1,29,91,bxfjwts,pea,,,,,,high,specificity,0.0,3.91,,,7,3,word,,,high
+327,03,1,30,55,zbxlv,traffic,,,,,,concrete_baseline,compose,0.0,4.54,0.0,0.0,5,7,word,baseline,concrete,
+249,03,1,31,42,zrtqgfplh,badger,,,,,,concrete_baseline,compose,0.0,3.97,0.0,0.0,9,6,word,baseline,concrete,
+422,03,1,32,71,virtual,strike,,,,,,concrete_privative,compose,3.63,4.73,0.0,0.0,7,6,phrase,privative,concrete,
+546,03,1,33,91,htbqzylm,success,,,,,,abstract_baseline,compose,0.0,4.92,0.0,0.0,8,7,word,baseline,abstract,
+116,03,1,34,20,virtual,stab,,,,,,concrete_privative,compose,3.63,3.87,0.0,0.0,7,4,phrase,privative,concrete,
+458,03,1,35,77,fake,venom,Is it dangerous to consume?,Rb,1.1369588375091553,1.0,,concrete_privative,compose,4.51,3.76,0.0,0.0,4,5,phrase,privative,concrete,
+374,03,1,36,63,mock,troll,,,,,,concrete_privative,compose,3.74,3.32,0.0,0.0,4,5,phrase,privative,concrete,
+55,03,1,37,10,actual,barrier,,,,,,concrete_subsective,compose,4.6,4.04,4.15e-09,3.42e-09,6,7,phrase,subsective,concrete,
+889,03,1,38,97,htbqzylm,vehicle,,,,,,low,specificity,0.0,4.52,,,8,7,word,,,low
+454,03,1,39,76,real,culture,,,,,,abstract_subsective,compose,5.53,4.73,0.0,0.0,4,7,phrase,subsective,abstract,
+697,03,1,40,33,wvcnz,dog,,,,,,low,specificity,0.0,5.17,,,5,3,word,,,low
+201,03,1,41,34,rvqf,throne,,,,,,concrete_baseline,compose,0.0,4.0,0.0,0.0,4,6,word,baseline,concrete,
+150,03,1,42,25,bxfjwts,trouble,,,,,,abstract_baseline,compose,0.0,5.08,0.0,0.0,7,7,word,baseline,abstract,
+785,03,1,43,62,unpleasant,odour,,,,,,mid,specificity,3.78,3.12,,,10,5,phrase,,,mid
+866,03,1,44,89,kernelled,vegetable,,,,,,mid,specificity,,4.18,,,9,9,phrase,,,mid
+564,03,1,45,94,htbqzylm,plea,,,,,,abstract_baseline,compose,0.0,3.63,0.0,0.0,8,4,word,baseline,abstract,
+670,03,1,46,24,xkq,clothing,,,,,,low,specificity,0.0,4.14,,,3,8,word,,,low
+270,03,1,47,45,wvcnz,scheme,,,,,,abstract_baseline,compose,0.0,4.69,0.0,0.0,5,6,word,baseline,abstract,
+338,03,1,48,57,mythical,piston,,,,,,concrete_privative,compose,3.34,2.93,0.0,0.0,8,6,phrase,privative,concrete,
+303,03,1,49,51,zbxlv,mother,,,,,,concrete_baseline,compose,0.0,5.29,0.0,0.0,5,6,word,baseline,concrete,
+497,03,1,50,83,mock,moment,,,,,,abstract_privative,compose,3.74,5.57,0.0,0.0,4,6,phrase,privative,abstract,
+495,03,1,51,83,ptrgsbkv,children,,,,,,concrete_baseline,compose,0.0,5.53,0.0,0.0,8,8,word,baseline,concrete,
+8,03,1,52,2,past,poison,,,,,,concrete_privative,compose,5.3,3.92,1.29e-10,1.32e-10,4,6,phrase,privative,concrete,
+766,03,1,53,56,mghljkqr,mammal,,,,,,low,specificity,0.0,3.71,,,8,6,word,,,low
+752,03,1,54,51,seasonal,illness,,,,,,mid,specificity,3.74,4.12,,,8,7,phrase,,,mid
+759,03,1,55,53,zrtqgfplh,whiskey,,,,,,high,specificity,0.0,3.5,,,9,7,word,,,high
+750,03,1,56,50,kmlsdjtw,mansion,,,,,,high,specificity,0.0,3.84,,,8,7,word,,,high
+271,03,1,57,46,average,morgue,,,,,,concrete_subsective,compose,4.73,3.12,0.0,0.0,7,6,phrase,subsective,concrete,
+659,03,1,58,20,fast,cat,,,,,,mid,specificity,5.09,4.83,,,4,3,phrase,,,mid
+191,03,1,59,32,spurious,mistake,,,,,,abstract_privative,compose,2.68,4.79,0.0,0.0,8,7,phrase,privative,abstract,
+622,03,1,60,8,ypdcglkc,bird,,,,,,low,specificity,0.0,4.85,,,8,4,word,,,low
+618,03,1,61,6,fxldmr,owl,Does it have feathers?,Rb,1.6775131225585938,1.0,,high,specificity,0.0,4.07,,,6,3,word,,,high
+660,03,1,62,20,rjdnw,cheetah,,,,,,high,specificity,0.0,3.45,,,5,7,word,,,high
+514,03,1,63,86,perfect,wisdom,,,,,,abstract_subsective,compose,5.28,3.92,3.21e-08,3.75e-08,7,6,phrase,subsective,abstract,
+231,03,1,64,39,kmlsdjtw,concert,Is it a quiet place?,Ry,1.6455981731414795,1.0,,concrete_baseline,compose,0.0,4.23,0.0,0.0,8,7,word,baseline,concrete,
+895,03,1,65,99,xkq,weather,Is it predictable?,Ry,1.4401476383209229,1.0,,low,specificity,0.0,5.12,,,3,7,word,,,low
+626,03,1,66,9,graceful,bird,,,,,,mid,specificity,3.41,4.85,,,8,4,phrase,,,mid
+833,03,1,67,78,large,snake,,,,,,mid,specificity,5.1,4.36,,,5,5,phrase,,,mid
+227,03,1,68,38,artificial,mood,,,,,,abstract_privative,compose,3.85,4.5,0.0,0.0,10,4,phrase,privative,abstract,
+675,03,1,69,25,qxsw,laptop,,,,,,high,specificity,0.0,3.89,,,4,6,word,,,high
+844,03,1,70,82,mtpv,tool,,,,,,low,specificity,0.0,4.07,,,4,4,word,,,low
+298,03,1,71,50,new,outlook,,,,,,abstract_subsective,compose,5.98,3.81,0.0,0.0,3,7,phrase,subsective,abstract,
+756,03,1,72,52,vpbyzkgrf,violin,,,,,,high,specificity,0.0,3.82,,,9,6,word,,,high
+897,03,1,73,99,xkq,storm,,,,,,high,specificity,0.0,4.46,,,3,5,word,,,high
+899,03,1,74,100,sparkling,wine,,,,,,mid,specificity,3.76,4.84,,,9,4,phrase,,,mid
+778,03,1,75,60,rvqf,meal,,,,,,low,specificity,0.0,4.53,,,4,4,word,,,low
+335,03,1,76,56,phony,interest,,,,,,abstract_privative,compose,2.35,5.05,0.0,0.0,5,8,phrase,privative,abstract,
+690,03,1,77,30,rjdnw,phone,Is it soft to touch? ,Ry,0.81880784034729,1.0,,high,specificity,0.0,5.19,,,5,5,word,,,high
+146,03,1,78,25,imaginary,prison,,,,,,concrete_privative,compose,3.56,4.81,0.0,0.0,9,6,phrase,privative,concrete,
+461,03,1,79,77,imaginary,ordeal,,,,,,abstract_privative,compose,3.56,3.63,0.0,0.0,9,6,phrase,privative,abstract,
+504,03,1,80,84,rvqf,pleasure,,,,,,abstract_baseline,compose,0.0,4.66,0.0,0.0,4,8,word,baseline,abstract,
+607,03,1,81,3,kmlsdjtw,bedding,,,,,,low,specificity,0.0,3.55,,,8,7,word,,,low
+708,03,1,82,36,vpbyzkgrf,rose,Is it fragrant?,Rb,0.9863612651824952,1.0,,high,specificity,0.0,4.64,,,9,4,word,,,high
+668,03,1,83,23,striped,cat,,,,,,mid,specificity,3.25,4.83,,,7,3,phrase,,,mid
+286,03,1,84,48,current,trust,,,,,,abstract_subsective,compose,4.81,5.02,0.0,0.0,7,5,phrase,subsective,abstract,
+881,03,1,85,94,medical,vehicle,Is it fast?,Rb,1.6944687366485596,1.0,,mid,specificity,4.63,4.52,,,7,7,phrase,,,mid
+379,03,1,86,64,current,fungus,,,,,,concrete_subsective,compose,4.81,3.48,0.0,0.0,7,6,phrase,subsective,concrete,
+888,03,1,87,96,fxldmr,submarine,,,,,,high,specificity,0.0,3.77,,,6,9,word,,,high
+209,03,1,88,35,fake,fiction,,,,,,abstract_privative,compose,4.51,4.11,0.0,0.0,4,7,phrase,privative,abstract,
+500,03,1,89,84,counterfeit,treasure,,,,,,concrete_privative,compose,3.64,4.46,0.0,0.0,11,8,phrase,privative,concrete,
+391,03,1,90,66,good,froth,,,,,,concrete_subsective,compose,6.35,3.01,0.0,0.0,4,5,phrase,subsective,concrete,
+505,03,1,91,85,authentic,singer,,,,,,concrete_subsective,compose,3.73,4.48,0.0,0.0,9,6,phrase,subsective,concrete,
+285,03,1,92,48,ypdcglkc,taste,,,,,,concrete_baseline,compose,0.0,4.95,0.0,0.0,8,5,word,baseline,concrete,
+144,03,1,93,24,tqvgqrz,limit,,,,,,abstract_baseline,compose,0.0,4.44,0.0,0.0,7,5,word,baseline,abstract,
+41,03,1,94,7,former,respect,,,,,,abstract_privative,compose,5.0,4.77,5.9e-09,4.96e-09,6,7,phrase,privative,abstract,
+172,03,1,95,29,true,truth,,,,,,abstract_subsective,compose,5.33,4.91,0.0,0.0,4,5,phrase,subsective,abstract,
+43,03,1,96,8,average,reptile,,,,,,concrete_subsective,compose,4.73,3.36,1.09e-10,1.02e-10,7,7,phrase,subsective,concrete,
+695,03,1,97,32,tiny,dog,,,,,,mid,specificity,4.87,5.17,,,4,3,phrase,,,mid
+845,03,1,98,82,cutting,tool,,,,,,mid,specificity,4.71,4.07,,,7,4,phrase,,,mid
+694,03,1,99,32,rvqf,dog,,,,,,low,specificity,0.0,5.17,,,4,3,word,,,low
+707,03,1,100,36,thorny,flower,,,,,,mid,specificity,3.03,4.5,,,6,6,phrase,,,mid
+834,03,1,101,78,zrtqgfplh,python,,,,,,high,specificity,0.0,3.59,,,9,6,word,,,high
+138,03,1,102,23,zrtqgfplh,rating,,,,,,abstract_baseline,compose,0.0,3.86,0.0,0.0,9,6,word,baseline,abstract,
+31,03,1,103,6,unique,mint,,,,,,concrete_subsective,compose,4.66,4.15,6.52e-11,9.09e-11,6,4,phrase,subsective,concrete,
+522,03,1,104,87,tqvgqrz,peace,,,,,,abstract_baseline,compose,0.0,4.74,0.0,0.0,7,5,word,baseline,abstract,
+97,03,1,105,17,perfect,fireworks,,,,,,concrete_subsective,compose,5.28,3.9,0.0,0.0,7,9,phrase,subsective,concrete,
+183,03,1,106,31,qxsw,bread,,,,,,concrete_baseline,compose,0.0,4.69,0.0,0.0,4,5,word,baseline,concrete,
+755,03,1,107,52,stringed,instrument,,,,,,mid,specificity,2.77,4.22,,,8,10,phrase,,,mid
+145,03,1,108,25,old,prison,,,,,,concrete_subsective,compose,5.79,4.81,0.0,0.0,3,6,phrase,subsective,concrete,
+373,03,1,109,63,perfect,troll,,,,,,concrete_subsective,compose,5.28,3.32,0.0,0.0,7,5,phrase,subsective,concrete,
+568,03,1,110,95,important,treason,,,,,,abstract_subsective,compose,5.57,3.3,4.42e-11,1.59e-10,9,7,phrase,subsective,abstract,
+246,03,1,111,41,vpbyzkgrf,progress,,,,,,abstract_baseline,compose,0.0,4.68,0.0,0.0,9,8,word,baseline,abstract,
+631,03,1,112,11,fxldmr,boots,,,,,,low,specificity,0.0,4.36,,,6,5,word,,,low
+542,03,1,113,91,fake,smile,,,,,,concrete_privative,compose,4.51,4.71,3.22e-08,2.77e-08,4,5,phrase,privative,concrete,
+313,03,1,114,53,actual,corpse,,,,,,concrete_subsective,compose,4.6,3.41,0.0,0.0,6,6,phrase,subsective,concrete,
+354,03,1,115,59,xkq,allure,,,,,,abstract_baseline,compose,0.0,2.94,0.0,0.0,3,6,word,baseline,abstract,
+103,03,1,116,18,authentic,blister,,,,,,concrete_subsective,compose,3.73,2.97,0.0,0.0,9,7,phrase,subsective,concrete,
+367,03,1,117,62,typical,pudding,Is it edible?,Rb,1.065150260925293,1.0,,concrete_subsective,compose,4.51,4.44,0.0,0.0,7,7,phrase,subsective,concrete,
+562,03,1,118,94,perfect,plea,,,,,,abstract_subsective,compose,5.28,3.63,2.59e-10,2.07e-10,7,4,phrase,subsective,abstract,
+166,03,1,119,28,current,option,,,,,,abstract_subsective,compose,4.81,4.61,0.0,0.0,7,6,phrase,subsective,abstract,
+421,03,1,120,71,unique,strike,,,,,,concrete_subsective,compose,4.66,4.73,0.0,0.0,6,6,phrase,subsective,concrete,
+900,03,1,121,100,qxsw,champagne,,,,,,high,specificity,0.0,4.22,,,4,9,word,,,high
+341,03,1,122,57,fake,doctrine,,,,,,abstract_privative,compose,4.51,3.17,0.0,0.0,4,8,phrase,privative,abstract,
+23,03,1,123,4,past,spirit,,,,,,abstract_privative,compose,5.3,4.66,6.09e-10,4.09e-10,4,6,phrase,privative,abstract,
+713,03,1,124,38,yellow,fruit,,,,,,mid,specificity,4.84,4.73,,,6,5,phrase,,,mid
+88,03,1,125,15,special,mercy,,,,,,abstract_subsective,compose,5.32,4.02,0.0,0.0,7,5,phrase,subsective,abstract,
+638,03,1,126,13,religious,building,,,,,,mid,specificity,4.43,5.24,,,9,8,phrase,,,mid
+353,03,1,127,59,imaginary,allure,,,,,,abstract_privative,compose,3.56,2.94,0.0,0.0,9,6,phrase,privative,abstract,
+855,03,1,128,85,fxldmr,palm,,,,,,high,specificity,0.0,3.87,,,6,4,word,,,high
+649,03,1,129,17,ptrgsbkv,building,,,,,,low,specificity,0.0,5.24,,,8,8,word,,,low
+101,03,1,130,17,former,blessing,,,,,,abstract_privative,compose,5.0,3.81,0.0,0.0,6,8,phrase,privative,abstract,
+569,03,1,131,95,former,treason,,,,,,abstract_privative,compose,5.0,3.3,4.13e-10,4.16e-10,6,7,phrase,privative,abstract,
+302,03,1,132,51,fake,mother,,,,,,concrete_privative,compose,4.51,5.29,0.0,0.0,4,6,phrase,privative,concrete,
+110,03,1,133,19,mythical,ground,,,,,,concrete_privative,compose,3.34,5.19,0.0,0.0,8,6,phrase,privative,concrete,
+803,03,1,134,68,naval,rank,,,,,,mid,specificity,3.91,3.9,,,5,4,phrase,,,mid
+625,03,1,135,9,wvcnz,bird,,,,,,low,specificity,0.0,4.85,,,5,4,word,,,low
+155,03,1,136,26,mock,skill,,,,,,abstract_privative,compose,3.74,4.4,0.0,0.0,4,5,phrase,privative,abstract,
+162,03,1,137,27,ypdcglkc,inkling,,,,,,abstract_baseline,compose,0.0,3.38,0.0,0.0,8,7,word,baseline,abstract,
+269,03,1,138,45,phony,scheme,,,,,,abstract_privative,compose,2.35,4.69,0.0,0.0,5,6,phrase,privative,abstract,
+127,03,1,139,22,actual,monarch,,,,,,concrete_subsective,compose,4.6,3.85,0.0,0.0,6,7,phrase,subsective,concrete,
+382,03,1,140,64,authentic,remorse,,,,,,abstract_subsective,compose,3.73,3.29,0.0,0.0,9,7,phrase,subsective,abstract,
+543,03,1,141,91,vpbyzkgrf,smile,,,,,,concrete_baseline,compose,0.0,4.71,0.0,0.0,9,5,word,baseline,concrete,
+787,03,1,142,63,ptrgsbkv,person,,,,,,low,specificity,0.0,5.34,,,8,6,word,,,low
+614,03,1,143,5,large,bird,,,,,,mid,specificity,5.1,4.85,,,5,4,phrase,,,mid
+592,03,1,144,99,perfect,failure,,,,,,abstract_subsective,compose,5.28,4.43,0.0,0.0,7,7,phrase,subsective,abstract,
+325,03,1,145,55,real,traffic,,,,,,concrete_subsective,compose,5.53,4.54,0.0,0.0,4,7,phrase,subsective,concrete,
+617,03,1,146,6,nocturnal,bird,,,,,,mid,specificity,3.35,4.85,,,9,4,phrase,,,mid
+284,03,1,147,48,mock,taste,,,,,,concrete_privative,compose,3.74,4.95,0.0,0.0,4,5,phrase,privative,concrete,
+480,03,1,148,80,rjdnw,aspect,,,,,,abstract_baseline,compose,0.0,4.24,0.0,0.0,5,6,word,baseline,abstract,
+202,03,1,149,34,perfect,method,Is it efficient?,Rb,2.021592378616333,1.0,,abstract_subsective,compose,5.28,4.12,0.0,0.0,7,6,phrase,subsective,abstract,
+66,03,1,150,11,htbqzylm,caution,,,,,,abstract_baseline,compose,0.0,3.81,0.0,0.0,8,7,word,baseline,abstract,
+590,03,1,151,99,hypothetical,grave,,,,,,concrete_privative,compose,3.13,4.2,0.0,0.0,12,5,phrase,privative,concrete,
+878,03,1,152,93,orange,vegetable,,,,,,mid,specificity,4.64,4.18,,,6,9,phrase,,,mid
+208,03,1,153,35,bad,fiction,,,,,,abstract_subsective,compose,5.56,4.11,0.0,0.0,3,7,phrase,subsective,abstract,
+450,03,1,154,75,ptrgsbkv,health,,,,,,abstract_baseline,compose,0.0,5.14,0.0,0.0,8,6,word,baseline,abstract,
+328,03,1,155,55,authentic,fault,,,,,,abstract_subsective,compose,3.73,4.75,0.0,0.0,9,5,phrase,subsective,abstract,
+319,03,1,156,54,good,mansion,,,,,,concrete_subsective,compose,6.35,3.84,0.0,0.0,4,7,phrase,subsective,concrete,
+363,03,1,157,61,htbqzylm,barrel,,,,,,concrete_baseline,compose,0.0,4.06,0.0,0.0,8,6,word,baseline,concrete,
+823,03,1,158,75,kmlsdjtw,seat,,,,,,low,specificity,0.0,4.78,,,8,4,word,,,low
+644,03,1,159,15,medical,building,,,,,,mid,specificity,4.63,5.24,,,7,8,phrase,,,mid
+275,03,1,160,46,spurious,deceit,,,,,,abstract_privative,compose,2.68,3.01,0.0,0.0,8,6,phrase,privative,abstract,
+727,03,1,161,43,htbqzylm,garment,,,,,,low,specificity,0.0,3.29,,,8,7,word,,,low
+485,03,1,162,81,fabricated,attempt,,,,,,abstract_privative,compose,2.79,4.6,0.0,0.0,10,7,phrase,privative,abstract,
+238,03,1,163,40,unique,curse,,,,,,abstract_subsective,compose,4.66,3.8,0.0,0.0,6,5,phrase,subsective,abstract,
+702,03,1,164,34,ypdcglkc,flounder,,,,,,high,specificity,0.0,2.72,,,8,8,word,,,high
+880,03,1,165,94,vpbyzkgrf,vehicle,,,,,,low,specificity,0.0,4.52,,,9,7,word,,,low
+723,03,1,166,41,zbxlv,watermelon,,,,,,high,specificity,0.0,3.13,,,5,10,word,,,high
+810,03,1,167,70,tqvgqrz,tortoise,,,,,,high,specificity,0.0,3.82,,,7,8,word,,,high
+170,03,1,168,29,fabricated,dog,,,,,,concrete_privative,compose,2.79,5.17,0.0,0.0,10,3,phrase,privative,concrete,
+169,03,1,169,29,average,dog,,,,,,concrete_subsective,compose,4.73,5.17,0.0,0.0,7,3,phrase,subsective,concrete,
+868,03,1,170,90,ptrgsbkv,vegetable,,,,,,low,specificity,0.0,4.18,,,8,9,word,,,low
+821,03,1,171,74,head,sculpture,,,,,,mid,specificity,5.61,4.05,,,4,9,phrase,,,mid
+826,03,1,172,76,kmlsdjtw,shoe,,,,,,low,specificity,0.0,4.15,,,8,4,word,,,low
+402,03,1,173,67,ypdcglkc,thrill,,,,,,abstract_baseline,compose,0.0,3.86,0.0,0.0,8,6,word,baseline,abstract,
+629,03,1,174,10,small,boat,,,,,,mid,specificity,5.43,4.89,,,5,4,phrase,,,mid
+577,03,1,175,97,old,portrait,,,,,,concrete_subsective,compose,5.79,4.18,1.08e-08,8.55e-09,3,8,phrase,subsective,concrete,
+432,03,1,176,72,vpbyzkgrf,power,,,,,,abstract_baseline,compose,0.0,5.29,0.0,0.0,9,5,word,baseline,abstract,
+292,03,1,177,49,average,drama,,,,,,abstract_subsective,compose,4.73,4.52,0.0,0.0,7,5,phrase,subsective,abstract,
+83,03,1,178,14,past,reason,,,,,,abstract_privative,compose,5.3,5.19,0.0,0.0,4,6,phrase,privative,abstract,
+891,03,1,179,97,htbqzylm,tank,,,,,,high,specificity,0.0,4.34,,,8,4,word,,,high
+818,03,1,180,73,tomato,sauce,,,,,,mid,specificity,4.27,4.79,,,6,5,phrase,,,mid
+555,03,2,1,93,mtpv,hug,,,,,,concrete_baseline,compose,0.0,4.13,0.0,0.0,4,3,word,baseline,concrete,
+671,03,2,2,24,warm,clothing,Is it suitable for winter?,Rb,1.7523024082183838,1.0,,mid,specificity,4.92,4.14,,,4,8,phrase,,,mid
+414,03,2,3,69,rjdnw,verge,,,,,,abstract_baseline,compose,0.0,3.65,0.0,0.0,5,5,word,baseline,abstract,
+544,03,2,4,91,bad,success,,,,,,abstract_subsective,compose,5.56,4.92,7.58e-09,8.29e-09,3,7,phrase,subsective,abstract,
+168,03,2,5,28,ypdcglkc,option,,,,,,abstract_baseline,compose,0.0,4.61,0.0,0.0,8,6,word,baseline,abstract,
+779,03,2,6,60,light,meal,,,,,,mid,specificity,5.28,4.53,,,5,4,phrase,,,mid
+315,03,2,7,53,xkq,corpse,,,,,,concrete_baseline,compose,0.0,3.41,0.0,0.0,3,6,word,baseline,concrete,
+597,03,2,8,100,zbxlv,syringe,,,,,,concrete_baseline,compose,0.0,3.12,0.0,0.0,5,7,word,baseline,concrete,
+77,03,2,9,13,hypothetical,gloom,,,,,,abstract_privative,compose,3.13,3.6,0.0,0.0,12,5,phrase,privative,abstract,
+796,03,2,10,66,zrtqgfplh,predator,,,,,,low,specificity,0.0,3.89,,,9,8,word,,,low
+32,03,2,11,6,virtual,mint,,,,,,concrete_privative,compose,3.63,4.15,0.0,2.19e-11,7,4,phrase,privative,concrete,
+780,03,2,12,60,qxsw,snack,,,,,,high,specificity,0.0,3.82,,,4,5,word,,,high
+164,03,2,13,28,fabricated,chef,,,,,,concrete_privative,compose,2.79,4.7,0.0,0.0,10,4,phrase,privative,concrete,
+38,03,2,14,7,virtual,sunshine,,,,,,concrete_privative,compose,3.63,4.75,1.69e-11,0.0,7,8,phrase,privative,concrete,
+741,03,2,15,47,tqvgqrz,knob,,,,,,high,specificity,0.0,3.5,,,7,4,word,,,high
+180,03,2,16,30,mtpv,safety,Is it to be neglected in a workplace?,Ry,2.2908577919006348,1.0,,abstract_baseline,compose,0.0,4.85,0.0,0.0,4,6,word,baseline,abstract,
+160,03,2,17,27,real,inkling,,,,,,abstract_subsective,compose,5.53,3.38,0.0,0.0,4,7,phrase,subsective,abstract,
+445,03,2,18,75,true,girl,,,,,,concrete_subsective,compose,5.33,5.29,0.0,0.0,4,4,phrase,subsective,concrete,
+537,03,2,19,90,kmlsdjtw,court,,,,,,concrete_baseline,compose,0.0,5.1,0.0,0.0,8,5,word,baseline,concrete,
+775,03,2,20,59,wvcnz,mammal,,,,,,low,specificity,0.0,3.71,,,5,6,word,,,low
+491,03,2,21,82,virtual,neglect,Is it to be avoided?,Ry,2.295842409133911,0.0,,abstract_privative,compose,3.63,3.65,0.0,0.0,7,7,phrase,privative,abstract,
+149,03,2,22,25,mock,trouble,,,,,,abstract_privative,compose,3.74,5.08,0.0,0.0,4,7,phrase,privative,abstract,
+474,03,2,23,79,bxfjwts,despair,,,,,,abstract_baseline,compose,0.0,3.81,0.0,0.0,7,7,word,baseline,abstract,
+386,03,2,24,65,phony,church,,,,,,concrete_privative,compose,2.35,5.02,0.0,0.0,5,6,phrase,privative,concrete,
+595,03,2,25,100,genuine,syringe,,,,,,concrete_subsective,compose,4.37,3.12,0.0,0.0,7,7,phrase,subsective,concrete,
+80,03,2,26,14,fabricated,daughter,,,,,,concrete_privative,compose,2.79,4.97,0.0,0.0,10,8,phrase,privative,concrete,
+837,03,2,27,79,zbxlv,music,,,,,,high,specificity,0.0,5.35,,,5,5,word,,,high
+108,03,2,28,18,bxfjwts,disgust,,,,,,abstract_baseline,compose,0.0,3.26,0.0,0.0,7,7,word,baseline,abstract,
+441,03,2,29,74,ptrgsbkv,weapon,,,,,,concrete_baseline,compose,0.0,4.29,0.0,0.0,8,6,word,baseline,concrete,
+733,03,2,30,45,wvcnz,gem,Is it shiny?,Rb,1.3054993152618408,1.0,,low,specificity,0.0,3.95,,,5,3,word,,,low
+700,03,2,31,34,fxldmr,fish,Does it have fins,Rb,1.3483855724334717,1.0,,low,specificity,0.0,5.19,,,6,4,word,,,low
+530,03,2,32,89,artificial,carcass,,,,,,concrete_privative,compose,3.85,3.45,1.49e-11,6.96e-12,10,7,phrase,privative,concrete,
+218,03,2,33,37,spurious,pastry,,,,,,concrete_privative,compose,2.68,4.37,0.0,0.0,8,6,phrase,privative,concrete,
+757,03,2,34,53,bxfjwts,liquor,,,,,,low,specificity,0.0,3.48,,,7,6,word,,,low
+475,03,2,35,80,bad,click,,,,,,concrete_subsective,compose,5.56,4.06,0.0,0.0,3,5,phrase,subsective,concrete,
+28,03,2,36,5,actual,pride,,,,,,abstract_subsective,compose,4.6,4.48,6.2e-10,5.75e-10,6,5,phrase,subsective,abstract,
+804,03,2,37,68,tqvgqrz,admiral,,,,,,high,specificity,0.0,3.57,,,7,7,word,,,high
+380,03,2,38,64,false,fungus,,,,,,concrete_privative,compose,4.76,3.48,0.0,0.0,5,6,phrase,privative,concrete,
+470,03,2,39,79,spurious,slime,,,,,,concrete_privative,compose,2.68,3.57,0.0,0.0,8,5,phrase,privative,concrete,
+15,03,2,40,3,vpbyzkgrf,sauce,,,,,,concrete_baseline,compose,0.0,4.79,0.0,0.0,9,5,word,baseline,concrete,
+279,03,2,41,47,zrtqgfplh,rash,,,,,,concrete_baseline,compose,0.0,3.61,0.0,0.0,9,4,word,baseline,concrete,
+748,03,2,42,50,kmlsdjtw,house,,,,,,low,specificity,0.0,5.83,,,8,5,word,,,low
+393,03,2,43,66,mtpv,froth,,,,,,concrete_baseline,compose,0.0,3.01,0.0,0.0,4,5,word,baseline,concrete,
+258,03,2,44,43,rvqf,pause,,,,,,abstract_baseline,compose,0.0,3.86,0.0,0.0,4,5,word,baseline,abstract,
+682,03,2,45,28,xkq,crime,,,,,,low,specificity,0.0,4.9,,,3,5,word,,,low
+111,03,2,46,19,tqvgqrz,ground,,,,,,concrete_baseline,compose,0.0,5.19,0.0,0.0,7,6,word,baseline,concrete,
+466,03,2,47,78,good,sorrow,,,,,,abstract_subsective,compose,6.35,3.56,0.0,0.0,4,6,phrase,subsective,abstract,
+513,03,2,48,86,zbxlv,daylight,,,,,,concrete_baseline,compose,0.0,3.89,0.0,0.0,5,8,word,baseline,concrete,
+665,03,2,49,22,hairless,cat,,,,,,mid,specificity,2.52,4.83,,,8,3,phrase,,,mid
+561,03,2,50,94,xkq,gorge,,,,,,concrete_baseline,compose,0.0,3.52,0.0,0.0,3,5,word,baseline,concrete,
+721,03,2,51,41,zbxlv,fruit,,,,,,low,specificity,0.0,4.73,,,5,5,word,,,low
+385,03,2,52,65,true,church,,,,,,concrete_subsective,compose,5.33,5.02,0.0,0.0,4,6,phrase,subsective,concrete,
+773,03,2,53,58,marine,mammal,,,,,,mid,specificity,4.2,3.71,,,6,6,phrase,,,mid
+47,03,2,54,8,phony,mischief,,,,,,abstract_privative,compose,2.35,3.48,0.0,0.0,5,8,phrase,privative,abstract,
+332,03,2,55,56,spurious,doctor,,,,,,concrete_privative,compose,2.68,5.02,0.0,0.0,8,6,phrase,privative,concrete,
+159,03,2,56,27,mghljkqr,pheasant,Is it large for a bird?,Rb,1.9158625602722168,1.0,,concrete_baseline,compose,0.0,3.55,0.0,0.0,8,8,word,baseline,concrete,
+419,03,2,57,70,former,triumph,Is it to be commemorated?,Rb,2.49830174446106,0.0,,abstract_privative,compose,5.0,4.01,0.0,0.0,6,7,phrase,privative,abstract,
+148,03,2,58,25,perfect,trouble,,,,,,abstract_subsective,compose,5.28,5.08,0.0,0.0,7,7,phrase,subsective,abstract,
+53,03,2,59,9,fictitious,faith,,,,,,abstract_privative,compose,2.91,4.67,1.95e-10,2.29e-10,10,5,phrase,privative,abstract,
+628,03,2,60,10,bxfjwts,boat,,,,,,low,specificity,0.0,4.89,,,7,4,word,,,low
+79,03,2,61,14,average,daughter,,,,,,concrete_subsective,compose,4.73,4.97,0.0,0.0,7,8,phrase,subsective,concrete,
+254,03,2,62,43,phony,vein,,,,,,concrete_privative,compose,2.35,3.58,0.0,0.0,5,4,phrase,privative,concrete,
+78,03,2,63,13,tqvgqrz,gloom,,,,,,abstract_baseline,compose,0.0,3.6,0.0,0.0,7,5,word,baseline,abstract,
+121,03,2,64,21,current,beer,,,,,,concrete_subsective,compose,4.81,4.47,0.0,0.0,7,4,phrase,subsective,concrete,
+642,03,2,65,14,zrtqgfplh,factory,,,,,,high,specificity,0.0,4.59,,,9,7,word,,,high
+847,03,2,66,83,mtpv,tool,,,,,,low,specificity,0.0,4.07,,,4,4,word,,,low
+46,03,2,67,8,true,mischief,,,,,,abstract_subsective,compose,5.33,3.48,1.54e-10,1.3e-10,4,8,phrase,subsective,abstract,
+154,03,2,68,26,perfect,skill,,,,,,abstract_subsective,compose,5.28,4.4,0.0,0.0,7,5,phrase,subsective,abstract,
+369,03,2,69,62,vpbyzkgrf,pudding,,,,,,concrete_baseline,compose,0.0,4.44,0.0,0.0,9,7,word,baseline,concrete,
+427,03,2,70,72,current,door,,,,,,concrete_subsective,compose,4.81,5.26,0.0,0.0,7,4,phrase,subsective,concrete,
+135,03,2,71,23,bxfjwts,forum,,,,,,concrete_baseline,compose,0.0,3.72,0.0,0.0,7,5,word,baseline,concrete,
+856,03,2,72,86,htbqzylm,utensil,,,,,,low,specificity,0.0,2.51,,,8,7,word,,,low
+19,03,2,73,4,current,band,,,,,,concrete_subsective,compose,4.81,4.94,5.24e-09,4.03e-09,7,4,phrase,subsective,concrete,
+471,03,2,74,79,ptrgsbkv,slime,,,,,,concrete_baseline,compose,0.0,3.57,0.0,0.0,8,5,word,baseline,concrete,
+242,03,2,75,41,fake,mountain,,,,,,concrete_privative,compose,4.51,4.64,0.0,0.0,4,8,phrase,privative,concrete,
+399,03,2,76,67,zrtqgfplh,swan,,,,,,concrete_baseline,compose,0.0,3.98,0.0,0.0,9,4,word,baseline,concrete,
+753,03,2,77,51,kmlsdjtw,flu,,,,,,high,specificity,0.0,3.85,,,8,3,word,,,high
+14,03,2,78,3,fabricated,sauce,,,,,,concrete_privative,compose,2.79,4.79,0.0,0.0,10,5,phrase,privative,concrete,
+613,03,2,79,5,tqvgqrz,bird,,,,,,low,specificity,0.0,4.85,,,7,4,word,,,low
+623,03,2,80,8,small,bird,,,,,,mid,specificity,5.43,4.85,,,5,4,phrase,,,mid
+92,03,2,81,16,fake,cooker,,,,,,concrete_privative,compose,4.51,3.79,0.0,0.0,4,6,phrase,privative,concrete,
+318,03,2,82,53,rjdnw,hatred,,,,,,abstract_baseline,compose,0.0,3.65,0.0,0.0,5,6,word,baseline,abstract,
+76,03,2,83,13,new,gloom,,,,,,abstract_subsective,compose,5.98,3.6,0.0,0.0,3,5,phrase,subsective,abstract,
+686,03,2,84,29,protesting,crowd,,,,,,mid,specificity,3.61,4.76,,,10,5,phrase,,,mid
+496,03,2,85,83,perfect,moment,,,,,,abstract_subsective,compose,5.28,5.57,0.0,0.0,7,6,phrase,subsective,abstract,
+616,03,2,86,6,mtpv,bird,,,,,,low,specificity,0.0,4.85,,,4,4,word,,,low
+326,03,2,87,55,mythical,traffic,,,,,,concrete_privative,compose,3.34,4.54,0.0,0.0,8,7,phrase,privative,concrete,
+199,03,2,88,34,good,throne,,,,,,concrete_subsective,compose,6.35,4.0,0.0,0.0,4,6,phrase,subsective,concrete,
+334,03,2,89,56,true,interest,,,,,,abstract_subsective,compose,5.33,5.05,0.0,0.0,4,8,phrase,subsective,abstract,
+676,03,2,90,26,tqvgqrz,cook,,,,,,low,specificity,0.0,5.03,,,7,4,word,,,low
+799,03,2,91,67,vpbyzkgrf,product,,,,,,low,specificity,0.0,4.65,,,9,7,word,,,low
+486,03,2,92,81,xkq,attempt,,,,,,abstract_baseline,compose,0.0,4.6,0.0,0.0,3,7,word,baseline,abstract,
+448,03,2,93,75,true,health,,,,,,abstract_subsective,compose,5.33,5.14,0.0,0.0,4,6,phrase,subsective,abstract,
+2,03,2,94,1,imaginary,sulphur,,,,,,concrete_privative,compose,3.56,3.35,0.0,0.0,9,7,phrase,privative,concrete,
+492,03,2,95,82,tqvgqrz,neglect,,,,,,abstract_baseline,compose,0.0,3.65,0.0,0.0,7,7,word,baseline,abstract,
+809,03,2,96,70,shelled,reptile,,,,,,mid,specificity,3.03,3.36,,,7,7,phrase,,,mid
+550,03,2,97,92,current,truce,,,,,,abstract_subsective,compose,4.81,3.19,8.02e-10,7.81e-10,7,5,phrase,subsective,abstract,
+482,03,2,98,81,counterfeit,audience,,,,,,concrete_privative,compose,3.64,4.86,0.0,0.0,11,8,phrase,privative,concrete,
+312,03,2,99,52,mtpv,language,,,,,,abstract_baseline,compose,0.0,4.82,0.0,0.0,4,8,word,baseline,abstract,
+157,03,2,100,27,old,pheasant,,,,,,concrete_subsective,compose,5.79,3.55,0.0,0.0,3,8,phrase,subsective,concrete,
+457,03,2,101,77,bad,venom,,,,,,concrete_subsective,compose,5.56,3.76,0.0,0.0,3,5,phrase,subsective,concrete,
+356,03,2,102,60,mythical,ditch,,,,,,concrete_privative,compose,3.34,3.92,0.0,0.0,8,5,phrase,privative,concrete,
+729,03,2,103,43,ypdcglkc,jacket,,,,,,high,specificity,0.0,4.29,,,8,6,word,,,high
+696,03,2,104,32,kmlsdjtw,Chihuahua,,,,,,high,specificity,0.0,3.07,,,8,9,word,,,high
+764,03,2,105,55,pouched,mammal,,,,,,mid,specificity,1.65,3.71,,,7,6,phrase,,,mid
+378,03,2,106,63,xkq,setback,,,,,,abstract_baseline,compose,0.0,3.51,0.0,0.0,3,7,word,baseline,abstract,
+206,03,2,107,35,fictional,lettuce,,,,,,concrete_privative,compose,3.69,3.81,0.0,0.0,9,7,phrase,privative,concrete,
+547,03,2,108,92,average,bongo,,,,,,concrete_subsective,compose,4.73,3.04,0.0,0.0,7,5,phrase,subsective,concrete,
+345,03,2,109,58,fxldmr,hydrant,Can you easily move it around? ,,3.0009732246398926,0.0,,concrete_baseline,compose,0.0,2.35,0.0,0.0,6,7,word,baseline,concrete,
+853,03,2,110,85,rvqf,tree,,,,,,low,specificity,0.0,4.95,,,4,4,word,,,low
+20,03,2,111,4,false,band,Have they broken up?,Ry,2.0614867210388184,0.0,,concrete_privative,compose,4.76,4.94,4.97e-10,1.43e-10,5,4,phrase,privative,concrete,
+535,03,2,112,90,actual,court,,,,,,concrete_subsective,compose,4.6,5.1,3.58e-09,2.04e-08,6,5,phrase,subsective,concrete,
+40,03,2,113,7,important,respect,,,,,,abstract_subsective,compose,5.57,4.77,1.93e-07,1.88e-07,9,7,phrase,subsective,abstract,
+352,03,2,114,59,old,allure,,,,,,abstract_subsective,compose,5.79,2.94,0.0,0.0,3,6,phrase,subsective,abstract,
+529,03,2,115,89,actual,carcass,Is it still living?,Ry,1.6844935417175293,1.0,,concrete_subsective,compose,4.6,3.45,3.55e-10,2.04e-09,6,7,phrase,subsective,concrete,
+736,03,2,116,46,zrtqgfplh,gem,,,,,,low,specificity,0.0,3.95,,,9,3,word,,,low
+65,03,2,117,11,past,caution,,,,,,abstract_privative,compose,5.3,3.81,4.74e-10,4.24e-10,4,7,phrase,privative,abstract,
+273,03,2,118,46,zrtqgfplh,morgue,,,,,,concrete_baseline,compose,0.0,3.12,0.0,0.0,9,6,word,baseline,concrete,
+30,03,2,119,5,rvqf,pride,Is it good to have too much of it?,,3.000972032546997,0.0,,abstract_baseline,compose,0.0,4.48,0.0,0.0,4,5,word,baseline,abstract,
+734,03,2,120,45,red,gem,,,,,,mid,specificity,5.41,3.95,,,3,3,phrase,,,mid
+541,03,2,121,91,bad,smile,,,,,,concrete_subsective,compose,5.56,4.71,8.58e-10,4.5e-10,3,5,phrase,subsective,concrete,
+321,03,2,122,54,zbxlv,mansion,,,,,,concrete_baseline,compose,0.0,3.84,0.0,0.0,5,7,word,baseline,concrete,
+265,03,2,123,45,unique,metal,,,,,,concrete_subsective,compose,4.66,4.63,0.0,0.0,6,5,phrase,subsective,concrete,
+49,03,2,124,9,genuine,crown,Is it cheap?,Ry,1.6994540691375732,1.0,,concrete_subsective,compose,4.37,4.53,1.91e-10,3.26e-10,7,5,phrase,subsective,concrete,
+90,03,2,125,15,ypdcglkc,mercy,,,,,,abstract_baseline,compose,0.0,4.02,0.0,0.0,8,5,word,baseline,abstract,
+124,03,2,126,21,true,fame,,,,,,abstract_subsective,compose,5.33,4.18,0.0,0.0,4,4,phrase,subsective,abstract,
+362,03,2,127,61,false,barrel,,,,,,concrete_privative,compose,4.76,4.06,0.0,0.0,5,6,phrase,privative,concrete,
+87,03,2,128,15,mtpv,chess,,,,,,concrete_baseline,compose,0.0,3.91,0.0,0.0,4,5,word,baseline,concrete,
+165,03,2,129,28,wvcnz,chef,,,,,,concrete_baseline,compose,0.0,4.7,0.0,0.0,5,4,word,baseline,concrete,
+215,03,2,130,36,fake,service,,,,,,abstract_privative,compose,4.51,5.2,0.0,0.0,4,7,phrase,privative,abstract,
+786,03,2,131,62,zbxlv,stench,,,,,,high,specificity,0.0,3.2,,,5,6,word,,,high
+869,03,2,132,90,leafy,vegetable,Is it fibrous?,Rb,1.632634162902832,1.0,,mid,specificity,3.41,4.18,,,5,9,phrase,,,mid
+852,03,2,133,84,xkq,fir,,,,,,high,specificity,0.0,3.2,,,3,3,word,,,high
+95,03,2,134,16,fictitious,mode,,,,,,abstract_privative,compose,2.91,3.84,0.0,0.0,10,4,phrase,privative,abstract,
+282,03,2,135,47,rjdnw,greed,,,,,,abstract_baseline,compose,0.0,3.63,0.0,0.0,5,5,word,baseline,abstract,
+61,03,2,136,11,good,trailer,,,,,,concrete_subsective,compose,6.35,3.68,2.04e-09,1.82e-09,4,7,phrase,subsective,concrete,
+277,03,2,137,47,special,rash,,,,,,concrete_subsective,compose,5.32,3.61,0.0,0.0,7,4,phrase,subsective,concrete,
+408,03,2,138,68,ptrgsbkv,fate,,,,,,abstract_baseline,compose,0.0,4.22,0.0,0.0,8,4,word,baseline,abstract,
+714,03,2,139,38,rjdnw,banana,,,,,,high,specificity,0.0,4.21,,,5,6,word,,,high
+197,03,2,140,33,hypothetical,effort,,,,,,abstract_privative,compose,3.13,4.76,0.0,0.0,12,6,phrase,privative,abstract,
+674,03,2,141,25,portable,computer,,,,,,mid,specificity,3.62,4.64,,,8,8,phrase,,,mid
+884,03,2,142,95,horse-drawn,vehicle,,,,,,mid,specificity,3.06,4.52,,,10,7,phrase,,,mid
+747,03,2,143,49,qxsw,zebra,,,,,,high,specificity,0.0,3.69,,,4,5,word,,,high
+882,03,2,144,94,ypdcglkc,ambulance,,,,,,high,specificity,0.0,4.47,,,8,9,word,,,high
+571,03,2,145,96,old,missile,,,,,,concrete_subsective,compose,5.79,3.66,1.15e-09,1.18e-09,3,7,phrase,subsective,concrete,
+705,03,2,146,35,zbxlv,daffodil,,,,,,high,specificity,0.0,3.15,,,5,8,word,,,high
+684,03,2,147,28,qxsw,shoplifting,,,,,,high,specificity,0.0,3.28,,,4,11,word,,,high
+634,03,2,148,12,ptrgsbkv,building,,,,,,low,specificity,0.0,5.24,,,8,8,word,,,low
+178,03,2,149,30,genuine,safety,,,,,,abstract_subsective,compose,4.37,4.85,0.0,0.0,7,6,phrase,subsective,abstract,
+51,03,2,150,9,rvqf,crown,Is it shiny?,Rb,2.3886101245880127,1.0,,concrete_baseline,compose,0.0,4.53,0.0,0.0,4,5,word,baseline,concrete,
+296,03,2,151,50,phony,pulse,,,,,,concrete_privative,compose,2.35,3.93,0.0,0.0,5,5,phrase,privative,concrete,
+89,03,2,152,15,past,mercy,,,,,,abstract_privative,compose,5.3,4.02,0.0,0.0,4,5,phrase,privative,abstract,
+98,03,2,153,17,mock,fireworks,,,,,,concrete_privative,compose,3.74,3.9,0.0,0.0,4,9,phrase,privative,concrete,
+433,03,2,154,73,old,bomber,,,,,,concrete_subsective,compose,5.79,3.86,0.0,0.0,3,6,phrase,subsective,concrete,
+219,03,2,155,37,ypdcglkc,pastry,,,,,,concrete_baseline,compose,0.0,4.37,0.0,0.0,8,6,word,baseline,concrete,
+177,03,2,156,30,zbxlv,dinner,,,,,,concrete_baseline,compose,0.0,4.77,0.0,0.0,5,6,word,baseline,concrete,
+192,03,2,157,32,wvcnz,mistake,,,,,,abstract_baseline,compose,0.0,4.79,0.0,0.0,5,7,word,baseline,abstract,
+744,03,2,158,48,bxfjwts,helmet,,,,,,high,specificity,0.0,4.08,,,7,6,word,,,high
+115,03,2,159,20,unique,stab,,,,,,concrete_subsective,compose,4.66,3.87,0.0,0.0,6,4,phrase,subsective,concrete,
+151,03,2,160,26,genuine,trophy,Is it shiny?,Rb,1.1868250370025637,1.0,,concrete_subsective,compose,4.37,4.37,0.0,0.0,7,6,phrase,subsective,concrete,
+394,03,2,161,66,genuine,upkeep,,,,,,abstract_subsective,compose,4.37,3.02,0.0,0.0,7,6,phrase,subsective,abstract,
+173,03,2,162,29,phony,truth,,,,,,abstract_privative,compose,2.35,4.91,0.0,0.0,5,5,phrase,privative,abstract,
+846,03,2,163,82,ypdcglkc,shears,,,,,,high,specificity,0.0,2.94,,,8,6,word,,,high
+381,03,2,164,64,kmlsdjtw,fungus,Does it grow in dry places?,Rb,1.2247250080108645,0.0,,concrete_baseline,compose,0.0,3.48,0.0,0.0,8,6,word,baseline,concrete,
+730,03,2,165,44,vpbyzkgrf,gem,,,,,,low,specificity,0.0,3.95,,,9,3,word,,,low
+761,03,2,166,54,young,male,,,,,,mid,specificity,5.51,4.66,,,5,4,phrase,,,mid
+10,03,2,167,2,true,terror,Is it good in a children's book?,Rb,2.773581027984619,0.0,,abstract_subsective,compose,5.33,4.06,3.11e-09,2.95e-09,4,6,phrase,subsective,abstract,
+772,03,2,168,58,zbxlv,mammal,,,,,,low,specificity,0.0,3.71,,,5,6,word,,,low
+73,03,2,169,13,typical,baggage,,,,,,concrete_subsective,compose,4.51,3.49,0.0,0.0,7,7,phrase,subsective,concrete,
+848,03,2,170,83,digging,tool,Is it typically found in the garden?,Rb,1.281571388244629,1.0,,mid,specificity,4.23,4.07,,,7,4,phrase,,,mid
+122,03,2,171,21,false,beer,,,,,,concrete_privative,compose,4.76,4.47,0.0,0.0,5,4,phrase,privative,concrete,
+398,03,2,172,67,fictional,swan,,,,,,concrete_privative,compose,3.69,3.98,0.0,0.0,9,4,phrase,privative,concrete,
+582,03,2,173,97,zrtqgfplh,instinct,,,,,,abstract_baseline,compose,0.0,4.01,0.0,0.0,9,8,word,baseline,abstract,
+712,03,2,174,38,fxldmr,fruit,,,,,,low,specificity,0.0,4.73,,,6,5,word,,,low
+272,03,2,175,46,fabricated,morgue,,,,,,concrete_privative,compose,2.79,3.12,0.0,0.0,10,6,phrase,privative,concrete,
+266,03,2,176,45,virtual,metal,,,,,,concrete_privative,compose,3.63,4.63,0.0,0.0,7,5,phrase,privative,concrete,
+463,03,2,177,78,real,shotgun,Is it to be handled with care?,Rb,1.4371564388275146,1.0,,concrete_subsective,compose,5.53,3.49,0.0,0.0,4,7,phrase,subsective,concrete,
+469,03,2,178,79,typical,slime,,,,,,concrete_subsective,compose,4.51,3.57,0.0,0.0,7,5,phrase,subsective,concrete,
+749,03,2,179,50,large,house,,,,,,mid,specificity,5.1,5.83,,,5,5,phrase,,,mid
+525,03,2,180,88,xkq,ulcer,,,,,,concrete_baseline,compose,0.0,2.86,0.0,0.0,3,5,word,baseline,concrete,
+212,03,3,1,36,hypothetical,street,,,,,,concrete_privative,compose,3.13,5.2,0.0,0.0,12,6,phrase,privative,concrete,
+459,03,3,2,77,rjdnw,venom,,,,,,concrete_baseline,compose,0.0,3.76,0.0,0.0,5,5,word,baseline,concrete,
+299,03,3,3,50,hypothetical,outlook,,,,,,abstract_privative,compose,3.13,3.81,0.0,0.0,12,7,phrase,privative,abstract,
+472,03,3,4,79,current,despair,,,,,,abstract_subsective,compose,4.81,3.81,0.0,0.0,7,7,phrase,subsective,abstract,
+620,03,3,5,7,waddling,bird,,,,,,mid,specificity,2.44,4.85,,,8,4,phrase,,,mid
+72,03,3,6,12,qxsw,blunder,,,,,,abstract_baseline,compose,0.0,3.02,0.0,0.0,4,7,word,baseline,abstract,
+777,03,3,7,59,kmlsdjtw,giraffe,,,,,,high,specificity,0.0,3.78,,,8,7,word,,,high
+710,03,3,8,37,Italian,food,,,,,,mid,specificity,4.6,5.45,,,7,4,phrase,,,mid
+596,03,3,9,100,fictional,syringe,,,,,,concrete_privative,compose,3.69,3.12,0.0,0.0,9,7,phrase,privative,concrete,
+842,03,3,10,81,frozen,stick,,,,,,mid,specificity,4.32,5.02,,,6,5,phrase,,,mid
+112,03,3,11,19,old,value,Should it be taught in school?,Rb,2.1562323570251465,0.0,,abstract_subsective,compose,5.79,5.0,0.0,0.0,3,5,phrase,subsective,abstract,
+27,03,3,12,5,vpbyzkgrf,brush,,,,,,concrete_baseline,compose,0.0,4.29,0.0,0.0,9,5,word,baseline,concrete,
+181,03,3,13,31,real,bread,,,,,,concrete_subsective,compose,5.53,4.69,0.0,0.0,4,5,phrase,subsective,concrete,
+129,03,3,14,22,bxfjwts,monarch,,,,,,concrete_baseline,compose,0.0,3.85,0.0,0.0,7,7,word,baseline,concrete,
+587,03,3,15,98,past,woe,,,,,,abstract_privative,compose,5.3,3.17,0.0,0.0,4,3,phrase,privative,abstract,
+263,03,3,16,44,former,virtue,,,,,,abstract_privative,compose,5.0,3.51,0.0,0.0,6,6,phrase,privative,abstract,
+17,03,3,17,3,former,duty,,,,,,abstract_privative,compose,5.0,4.61,9.28e-09,8.47e-09,6,4,phrase,privative,abstract,
+650,03,3,18,17,wooden,building,,,,,,mid,specificity,4.29,5.24,,,6,8,phrase,,,mid
+489,03,3,19,82,ypdcglkc,vomit,,,,,,concrete_baseline,compose,0.0,3.46,0.0,0.0,8,5,word,baseline,concrete,
+893,03,3,20,98,agricultural,vehicle,,,,,,mid,specificity,3.9,4.52,,,12,7,phrase,,,mid
+520,03,3,21,87,average,peace,,,,,,abstract_subsective,compose,4.73,4.74,2.53e-10,1.44e-09,7,5,phrase,subsective,abstract,
+858,03,3,22,86,zrtqgfplh,fork,,,,,,high,specificity,0.0,3.97,,,9,4,word,,,high
+176,03,3,23,30,mock,dinner,,,,,,concrete_privative,compose,3.74,4.77,0.0,0.0,4,6,phrase,privative,concrete,
+573,03,3,24,96,vpbyzkgrf,missile,,,,,,concrete_baseline,compose,0.0,3.66,0.0,0.0,9,7,word,baseline,concrete,
+188,03,3,25,32,fake,battle,,,,,,concrete_privative,compose,4.51,4.94,0.0,0.0,4,6,phrase,privative,concrete,
+357,03,3,26,60,wvcnz,ditch,,,,,,concrete_baseline,compose,0.0,3.92,0.0,0.0,5,5,word,baseline,concrete,
+268,03,3,27,45,true,scheme,,,,,,abstract_subsective,compose,5.33,4.69,0.0,0.0,4,6,phrase,subsective,abstract,
+652,03,3,28,18,htbqzylm,car,,,,,,low,specificity,0.0,5.44,,,8,3,word,,,low
+611,03,3,29,4,red,bird,,,,,,mid,specificity,5.41,4.85,,,3,4,phrase,,,mid
+189,03,3,30,32,kmlsdjtw,battle,Is it violent?,Rb,1.4531126022338867,1.0,,concrete_baseline,compose,0.0,4.94,0.0,0.0,8,6,word,baseline,concrete,
+128,03,3,31,22,artificial,monarch,,,,,,concrete_privative,compose,3.85,3.85,0.0,0.0,10,7,phrase,privative,concrete,
+527,03,3,32,88,mock,strife,,,,,,abstract_privative,compose,3.74,3.16,1.84e-11,1.47e-11,4,6,phrase,privative,abstract,
+410,03,3,33,69,false,mosque,,,,,,concrete_privative,compose,4.76,3.81,0.0,0.0,5,6,phrase,privative,concrete,
+876,03,3,34,92,rvqf,potato,,,,,,high,specificity,0.0,4.44,,,4,6,word,,,high
+719,03,3,35,40,fuzzy,fruit,,,,,,mid,specificity,3.28,4.73,,,5,5,phrase,,,mid
+483,03,3,36,81,zrtqgfplh,audience,,,,,,concrete_baseline,compose,0.0,4.86,0.0,0.0,9,8,word,baseline,concrete,
+16,03,3,37,3,important,duty,Should it be neglected?,Ry,1.6067023277282717,1.0,,abstract_subsective,compose,5.57,4.61,1.6e-07,1.45e-07,9,4,phrase,subsective,abstract,
+371,03,3,38,62,virtual,heaven,,,,,,abstract_privative,compose,3.63,4.6,0.0,0.0,7,6,phrase,privative,abstract,
+574,03,3,39,96,good,hardship,,,,,,abstract_subsective,compose,6.35,3.52,1.85e-10,4.6e-11,4,8,phrase,subsective,abstract,
+131,03,3,40,22,spurious,glamour,,,,,,abstract_privative,compose,2.68,3.88,0.0,0.0,8,7,phrase,privative,abstract,
+512,03,3,41,86,fabricated,daylight,,,,,,concrete_privative,compose,2.79,3.89,0.0,0.0,10,8,phrase,privative,concrete,
+553,03,3,42,93,new,hug,,,,,,concrete_subsective,compose,5.98,4.13,9.77e-11,3e-10,3,3,phrase,subsective,concrete,
+70,03,3,43,12,typical,blunder,Should it be repeated?,Rb,2.1731855869293213,0.0,,abstract_subsective,compose,4.51,3.02,3.07e-10,1.53e-10,7,7,phrase,subsective,abstract,
+692,03,3,44,31,senior,diplomat,,,,,,mid,specificity,4.62,3.29,,,6,8,phrase,,,mid
+58,03,3,45,10,true,scandal,Is it newsworthy?,Ry,2.064478874206543,0.0,,abstract_subsective,compose,5.33,4.22,1.25e-09,9.97e-10,4,7,phrase,subsective,abstract,
+395,03,3,46,66,fictional,upkeep,,,,,,abstract_privative,compose,3.69,3.02,0.0,0.0,9,6,phrase,privative,abstract,
+74,03,3,47,13,spurious,baggage,,,,,,concrete_privative,compose,2.68,3.49,0.0,0.0,8,7,phrase,privative,concrete,
+261,03,3,48,44,zbxlv,midwife,,,,,,concrete_baseline,compose,0.0,3.59,0.0,0.0,5,7,word,baseline,concrete,
+210,03,3,49,35,ptrgsbkv,fiction,,,,,,abstract_baseline,compose,0.0,4.11,0.0,0.0,8,7,word,baseline,abstract,
+250,03,3,50,42,genuine,output,,,,,,abstract_subsective,compose,4.37,3.77,0.0,0.0,7,6,phrase,subsective,abstract,
+349,03,3,51,59,bad,lynx,,,,,,concrete_subsective,compose,5.56,3.16,0.0,0.0,3,4,phrase,subsective,concrete,
+824,03,3,52,75,backless,seat,,,,,,mid,specificity,2.08,4.78,,,8,4,phrase,,,mid
+193,03,3,53,33,real,salt,Is it sweet?,Ry,2.932157039642334,1.0,,concrete_subsective,compose,5.53,4.69,0.0,0.0,4,4,phrase,subsective,concrete,
+125,03,3,54,21,phony,fame,Is it to be celebrated now?,Rb,1.9258480072021484,0.0,,abstract_privative,compose,2.35,4.18,0.0,0.0,5,4,phrase,privative,abstract,
+217,03,3,55,37,typical,pastry,,,,,,concrete_subsective,compose,4.51,4.37,0.0,0.0,7,6,phrase,subsective,concrete,
+163,03,3,56,28,average,chef,,,,,,concrete_subsective,compose,4.73,4.7,0.0,0.0,7,4,phrase,subsective,concrete,
+137,03,3,57,23,fake,rating,Is it to be disregarded?,Ry,2.0794389247894287,0.0,,abstract_privative,compose,4.51,3.86,0.0,0.0,4,6,phrase,privative,abstract,
+883,03,3,58,95,bxfjwts,vehicle,Does it carry people?,Ry,1.6376187801361084,0.0,,low,specificity,0.0,4.52,,,7,7,word,,,low
+339,03,3,59,57,rvqf,piston,,,,,,concrete_baseline,compose,0.0,2.93,0.0,0.0,4,6,word,baseline,concrete,
+534,03,3,60,89,xkq,dissent,,,,,,abstract_baseline,compose,0.0,3.22,0.0,0.0,3,7,word,baseline,abstract,
+359,03,3,61,60,past,pity,,,,,,abstract_privative,compose,5.3,4.1,0.0,0.0,4,4,phrase,privative,abstract,
+822,03,3,62,74,mghljkqr,bust,,,,,,high,specificity,0.0,4.12,,,8,4,word,,,high
+392,03,3,63,66,fictitious,froth,,,,,,concrete_privative,compose,2.91,3.01,0.0,0.0,10,5,phrase,privative,concrete,
+570,03,3,64,95,ptrgsbkv,treason,Is it to be celebrated?,Ry,1.2496554851531982,1.0,,abstract_baseline,compose,0.0,3.3,0.0,0.0,8,7,word,baseline,abstract,
+119,03,3,65,20,artificial,sin,,,,,,abstract_privative,compose,3.85,3.96,0.0,0.0,10,3,phrase,privative,abstract,
+751,03,3,66,51,rjdnw,illness,,,,,,low,specificity,0.0,4.12,,,5,7,word,,,low
+355,03,3,67,60,real,ditch,,,,,,concrete_subsective,compose,5.53,3.92,0.0,0.0,4,5,phrase,subsective,concrete,
+724,03,3,68,42,mghljkqr,fruit,,,,,,low,specificity,0.0,4.73,,,8,5,word,,,low
+510,03,3,69,85,kmlsdjtw,talent,,,,,,abstract_baseline,compose,0.0,4.58,0.0,0.0,8,6,word,baseline,abstract,
+781,03,3,70,61,zbxlv,metal,,,,,,low,specificity,0.0,4.63,,,5,5,word,,,low
+350,03,3,71,59,fake,lynx,,,,,,concrete_privative,compose,4.51,3.16,0.0,0.0,4,4,phrase,privative,concrete,
+815,03,3,72,72,female,ruler,,,,,,mid,specificity,4.67,3.63,,,6,5,phrase,,,mid
+805,03,3,73,69,mtpv,reptile,,,,,,low,specificity,0.0,3.36,,,4,7,word,,,low
+840,03,3,74,80,kmlsdjtw,pearl,,,,,,high,specificity,0.0,4.0,,,8,5,word,,,high
+797,03,3,75,66,marine,predator,,,,,,mid,specificity,4.2,3.89,,,6,8,phrase,,,mid
+130,03,3,76,22,typical,glamour,,,,,,abstract_subsective,compose,4.51,3.88,0.0,0.0,7,7,phrase,subsective,abstract,
+669,03,3,77,23,rjdnw,tiger,,,,,,high,specificity,0.0,4.36,,,5,5,word,,,high
+85,03,3,78,15,important,chess,,,,,,concrete_subsective,compose,5.57,3.91,0.0,0.0,9,5,phrase,subsective,concrete,
+598,03,3,79,100,old,wrath,,,,,,abstract_subsective,compose,5.79,3.41,0.0,0.0,3,5,phrase,subsective,abstract,
+25,03,3,80,5,new,brush,,,,,,concrete_subsective,compose,5.98,4.29,1.73e-08,1.51e-08,3,5,phrase,subsective,concrete,
+36,03,3,81,6,htbqzylm,manner,,,,,,abstract_baseline,compose,0.0,4.17,0.0,0.0,8,6,word,baseline,abstract,
+6,03,3,82,1,vpbyzkgrf,longing,,,,,,abstract_baseline,compose,0.0,3.41,0.0,0.0,9,7,word,baseline,abstract,
+136,03,3,83,23,bad,rating,,,,,,abstract_subsective,compose,5.56,3.86,0.0,0.0,3,6,phrase,subsective,abstract,
+648,03,3,84,16,mtpv,house,,,,,,high,specificity,0.0,5.83,,,4,5,word,,,high
+361,03,3,85,61,current,barrel,,,,,,concrete_subsective,compose,4.81,4.06,0.0,0.0,7,6,phrase,subsective,concrete,
+442,03,3,86,74,typical,madness,,,,,,abstract_subsective,compose,4.51,4.03,0.0,0.0,7,7,phrase,subsective,abstract,
+443,03,3,87,74,spurious,madness,,,,,,abstract_privative,compose,2.68,4.03,0.0,0.0,8,7,phrase,privative,abstract,
+792,03,3,88,64,fxldmr,Saturn,,,,,,high,specificity,0.0,3.55,,,6,6,word,,,high
+621,03,3,89,7,tqvgqrz,penguin,,,,,,high,specificity,0.0,3.88,,,7,7,word,,,high
+509,03,3,90,85,fictional,talent,Is it enviable?,,3.000972270965576,0.0,,abstract_privative,compose,3.69,4.58,0.0,0.0,9,6,phrase,privative,abstract,
+337,03,3,91,57,real,piston,Does it have moving parts?,Rb,1.4251878261566162,1.0,,concrete_subsective,compose,5.53,2.93,0.0,0.0,4,6,phrase,subsective,concrete,
+351,03,3,92,59,ypdcglkc,lynx,,,,,,concrete_baseline,compose,0.0,3.16,0.0,0.0,8,4,word,baseline,concrete,
+488,03,3,93,82,fabricated,vomit,,,,,,concrete_privative,compose,2.79,3.46,0.0,0.0,10,5,phrase,privative,concrete,
+317,03,3,94,53,mock,hatred,Is it despicable?,Rb,1.9886820316314695,1.0,,abstract_privative,compose,3.74,3.65,0.0,0.0,4,6,phrase,privative,abstract,
+807,03,3,95,69,rjdnw,crocodile,,,,,,high,specificity,0.0,3.95,,,5,9,word,,,high
+291,03,3,96,49,htbqzylm,port,,,,,,concrete_baseline,compose,0.0,4.49,0.0,0.0,8,4,word,baseline,concrete,
+364,03,3,97,61,true,function,,,,,,abstract_subsective,compose,5.33,4.06,0.0,0.0,4,8,phrase,subsective,abstract,
+581,03,3,98,97,virtual,instinct,,,,,,abstract_privative,compose,3.63,4.01,2.07e-10,1.82e-10,7,8,phrase,privative,abstract,
+255,03,3,99,43,bxfjwts,vein,,,,,,concrete_baseline,compose,0.0,3.58,0.0,0.0,7,4,word,baseline,concrete,
+502,03,3,100,84,true,pleasure,,,,,,abstract_subsective,compose,5.33,4.66,0.0,0.0,4,8,phrase,subsective,abstract,
+12,03,3,101,2,tqvgqrz,terror,,,,,,abstract_baseline,compose,0.0,4.06,0.0,0.0,7,6,word,baseline,abstract,
+102,03,3,102,17,tqvgqrz,blessing,,,,,,abstract_baseline,compose,0.0,3.81,0.0,0.0,7,8,word,baseline,abstract,
+439,03,3,103,74,average,weapon,,,,,,concrete_subsective,compose,4.73,4.29,0.0,0.0,7,6,phrase,subsective,concrete,
+585,03,3,104,98,ptrgsbkv,slum,,,,,,concrete_baseline,compose,0.0,3.32,0.0,0.0,8,4,word,baseline,concrete,
+81,03,3,105,14,mghljkqr,daughter,,,,,,concrete_baseline,compose,0.0,4.97,0.0,0.0,8,8,word,baseline,concrete,
+436,03,3,106,73,genuine,nuisance,,,,,,abstract_subsective,compose,4.37,3.7,0.0,0.0,7,8,phrase,subsective,abstract,
+344,03,3,107,58,spurious,hydrant,,,,,,concrete_privative,compose,2.68,2.35,0.0,0.0,8,7,phrase,privative,concrete,
+56,03,3,108,10,artificial,barrier,,,,,,concrete_privative,compose,3.85,4.04,3.15e-08,2.94e-08,10,7,phrase,privative,concrete,
+478,03,3,109,80,special,aspect,,,,,,abstract_subsective,compose,5.32,4.24,0.0,0.0,7,6,phrase,subsective,abstract,
+624,03,3,110,8,rjdnw,robin,,,,,,high,specificity,0.0,4.42,,,5,5,word,,,high
+236,03,3,111,40,fictitious,wreck,,,,,,concrete_privative,compose,2.91,3.96,0.0,0.0,10,5,phrase,privative,concrete,
+211,03,3,112,36,new,street,,,,,,concrete_subsective,compose,5.98,5.2,0.0,0.0,3,6,phrase,subsective,concrete,
+91,03,3,113,16,bad,cooker,Is it efficient?,Ry,2.386615514755249,1.0,,concrete_subsective,compose,5.56,3.79,0.0,0.0,3,6,phrase,subsective,concrete,
+673,03,3,114,25,vpbyzkgrf,computer,,,,,,low,specificity,0.0,4.64,,,9,8,word,,,low
+579,03,3,115,97,kmlsdjtw,portrait,,,,,,concrete_baseline,compose,0.0,4.18,0.0,0.0,8,8,word,baseline,concrete,
+412,03,3,116,69,old,verge,,,,,,abstract_subsective,compose,5.79,3.65,0.0,0.0,3,5,phrase,subsective,abstract,
+800,03,3,117,67,beauty,product,,,,,,mid,specificity,4.67,4.65,,,6,7,phrase,,,mid
+7,03,3,118,2,special,poison,Is it safe to consume? ,Ry,0.9195377826690674,1.0,,concrete_subsective,compose,5.32,3.92,1.73e-09,2.25e-09,7,6,phrase,subsective,concrete,
+316,03,3,119,53,perfect,hatred,,,,,,abstract_subsective,compose,5.28,3.65,0.0,0.0,7,6,phrase,subsective,abstract,
+811,03,3,120,71,ypdcglkc,river,,,,,,low,specificity,0.0,4.93,,,8,5,word,,,low
+877,03,3,121,93,ypdcglkc,vegetable,,,,,,low,specificity,0.0,4.18,,,8,9,word,,,low
+396,03,3,122,66,wvcnz,upkeep,,,,,,abstract_baseline,compose,0.0,3.02,0.0,0.0,5,6,word,baseline,abstract,
+801,03,3,123,67,vpbyzkgrf,hairspray,,,,,,high,specificity,0.0,3.06,,,9,9,word,,,high
+850,03,3,124,84,mtpv,tree,,,,,,low,specificity,0.0,4.95,,,4,4,word,,,low
+225,03,3,125,38,mghljkqr,crab,Has it got a hard shell?,Rb,1.2257180213928225,1.0,,concrete_baseline,compose,0.0,4.21,0.0,0.0,8,4,word,baseline,concrete,
+794,03,3,126,65,large,poultry,,,,,,mid,specificity,5.1,3.21,,,5,7,phrase,,,mid
+740,03,3,127,47,round,handle,,,,,,mid,specificity,5.71,4.59,,,5,6,phrase,,,mid
+672,03,3,128,24,rjdnw,jumper,,,,,,high,specificity,0.0,3.84,,,5,6,word,,,high
+415,03,3,129,70,authentic,laughter,,,,,,concrete_subsective,compose,3.73,3.84,0.0,0.0,9,8,phrase,subsective,concrete,
+360,03,3,130,60,mghljkqr,pity,,,,,,abstract_baseline,compose,0.0,4.1,0.0,0.0,8,4,word,baseline,abstract,
+890,03,3,131,97,armoured,vehicle,,,,,,mid,specificity,3.39,4.52,,,8,7,phrase,,,mid
+388,03,3,132,65,good,risk,,,,,,abstract_subsective,compose,6.35,4.98,0.0,0.0,4,4,phrase,subsective,abstract,
+179,03,3,133,30,fictional,safety,,,,,,abstract_privative,compose,3.69,4.85,0.0,0.0,9,6,phrase,privative,abstract,
+365,03,3,134,61,phony,function,,,,,,abstract_privative,compose,2.35,4.06,0.0,0.0,5,8,phrase,privative,abstract,
+639,03,3,135,13,zrtqgfplh,church,,,,,,high,specificity,0.0,5.02,,,9,6,word,,,high
+29,03,3,136,5,artificial,pride,,,,,,abstract_privative,compose,3.85,4.48,4.38e-10,3.8e-10,10,5,phrase,privative,abstract,
+142,03,3,137,24,bad,limit,Does it apply now?,Ry,2.077437162399292,0.0,,abstract_subsective,compose,5.56,4.44,0.0,0.0,3,5,phrase,subsective,abstract,
+406,03,3,138,68,real,fate,,,,,,abstract_subsective,compose,5.53,4.22,0.0,0.0,4,4,phrase,subsective,abstract,
+423,03,3,139,71,mtpv,strike,,,,,,concrete_baseline,compose,0.0,4.73,0.0,0.0,4,6,word,baseline,concrete,
+141,03,3,140,24,xkq,item,,,,,,concrete_baseline,compose,0.0,4.7,0.0,0.0,3,4,word,baseline,concrete,
+610,03,3,141,4,vpbyzkgrf,bird,,,,,,low,specificity,0.0,4.85,,,9,4,word,,,low
+346,03,3,142,58,unique,pronoun,,,,,,abstract_subsective,compose,4.66,2.09,0.0,0.0,6,7,phrase,subsective,abstract,
+519,03,3,143,87,ypdcglkc,laugh,,,,,,concrete_baseline,compose,0.0,4.77,0.0,0.0,8,5,word,baseline,concrete,
+425,03,3,144,71,fictitious,excuse,,,,,,abstract_privative,compose,2.91,4.86,0.0,0.0,10,6,phrase,privative,abstract,
+498,03,3,145,83,mghljkqr,moment,,,,,,abstract_baseline,compose,0.0,5.57,0.0,0.0,8,6,word,baseline,abstract,
+308,03,3,146,52,mythical,husband,,,,,,concrete_privative,compose,3.34,4.94,0.0,0.0,8,7,phrase,privative,concrete,
+358,03,3,147,60,special,pity,,,,,,abstract_subsective,compose,5.32,4.1,0.0,0.0,7,4,phrase,subsective,abstract,
+456,03,3,148,76,rjdnw,culture,,,,,,abstract_baseline,compose,0.0,4.73,0.0,0.0,5,7,word,baseline,abstract,
+93,03,3,149,16,mghljkqr,cooker,,,,,,concrete_baseline,compose,0.0,3.79,0.0,0.0,8,6,word,baseline,concrete,
+185,03,3,150,31,false,reserve,,,,,,abstract_privative,compose,4.76,4.63,0.0,0.0,5,7,phrase,privative,abstract,
+551,03,3,151,92,false,truce,Is it enviable?,Ry,1.9956562519073489,1.0,,abstract_privative,compose,4.76,3.19,4.2e-10,3.84e-10,5,5,phrase,privative,abstract,
+765,03,3,152,55,rvqf,marsupial,,,,,,high,specificity,0.0,2.69,,,4,9,word,,,high
+602,03,3,153,1,brown,alloy,,,,,,mid,specificity,5.01,3.13,,,5,5,phrase,,,mid
+870,03,3,154,90,fxldmr,lettuce,,,,,,high,specificity,0.0,3.81,,,6,7,word,,,high
+18,03,3,155,3,rjdnw,duty,,,,,,abstract_baseline,compose,0.0,4.61,0.0,0.0,5,4,word,baseline,abstract,
+52,03,3,156,9,good,faith,,,,,,abstract_subsective,compose,6.35,4.67,7.73e-06,8.21e-06,4,5,phrase,subsective,abstract,
+251,03,3,157,42,fictional,output,,,,,,abstract_privative,compose,3.69,3.77,0.0,0.0,9,6,phrase,privative,abstract,
+133,03,3,158,23,special,forum,,,,,,concrete_subsective,compose,5.32,3.72,0.0,0.0,7,5,phrase,subsective,concrete,
+449,03,3,159,75,phony,health,,,,,,abstract_privative,compose,2.35,5.14,0.0,0.0,5,6,phrase,privative,abstract,
+440,03,3,160,74,fabricated,weapon,,,,,,concrete_privative,compose,2.79,4.29,0.0,0.0,10,6,phrase,privative,concrete,
+661,03,3,161,21,wvcnz,cat,,,,,,low,specificity,0.0,4.83,,,5,3,word,,,low
+387,03,3,162,65,mtpv,church,,,,,,concrete_baseline,compose,0.0,5.02,0.0,0.0,4,6,word,baseline,concrete,
+615,03,3,163,5,mtpv,ostrich,,,,,,high,specificity,0.0,3.52,,,4,7,word,,,high
+499,03,3,164,84,authentic,treasure,,,,,,concrete_subsective,compose,3.73,4.46,0.0,0.0,9,8,phrase,subsective,concrete,
+584,03,3,165,98,virtual,slum,,,,,,concrete_privative,compose,3.63,3.32,1.49e-10,1.74e-10,7,4,phrase,privative,concrete,
+716,03,3,166,39,purple,fruit,Does it have petals?,Ry,1.1010513305664062,1.0,,mid,specificity,4.29,4.73,,,6,5,phrase,,,mid
+517,03,3,167,87,old,laugh,,,,,,concrete_subsective,compose,5.79,4.77,8.24e-09,2.54e-09,3,5,phrase,subsective,concrete,
+653,03,3,168,18,German,car,,,,,,mid,specificity,4.76,5.44,,,6,3,phrase,,,mid
+455,03,3,169,76,mythical,culture,,,,,,abstract_privative,compose,3.34,4.73,0.0,0.0,8,7,phrase,privative,abstract,
+664,03,3,170,22,bxfjwts,cat,,,,,,low,specificity,0.0,4.83,,,7,3,word,,,low
+536,03,3,171,90,artificial,court,,,,,,concrete_privative,compose,3.85,5.1,3.11e-10,7.64e-10,10,5,phrase,privative,concrete,
+383,03,3,172,64,counterfeit,remorse,Is it to be believed?,Ry,1.6406068801879885,1.0,,abstract_privative,compose,3.64,3.29,0.0,0.0,11,7,phrase,privative,abstract,
+82,03,3,173,14,special,reason,,,,,,abstract_subsective,compose,5.32,5.19,0.0,0.0,7,6,phrase,subsective,abstract,
+774,03,3,174,58,qxsw,whale,,,,,,high,specificity,0.0,4.14,,,4,5,word,,,high
+84,03,3,175,14,tqvgqrz,reason,,,,,,abstract_baseline,compose,0.0,5.19,0.0,0.0,7,6,word,baseline,abstract,
+220,03,3,176,37,actual,outcome,,,,,,abstract_subsective,compose,4.6,4.28,0.0,0.0,6,7,phrase,subsective,abstract,
+424,03,3,177,71,good,excuse,,,,,,abstract_subsective,compose,6.35,4.86,0.0,0.0,4,6,phrase,subsective,abstract,
+701,03,3,178,34,flat,fish,,,,,,mid,specificity,4.99,5.19,,,4,4,phrase,,,mid
+71,03,3,179,12,spurious,blunder,,,,,,abstract_privative,compose,2.68,3.02,0.0,0.0,8,7,phrase,privative,abstract,
+612,03,3,180,4,mtpv,cardinal,,,,,,high,specificity,0.0,3.67,,,4,8,word,,,high
+4,03,4,1,1,special,longing,,,,,,abstract_subsective,compose,5.32,3.41,6.42e-10,5.92e-10,7,7,phrase,subsective,abstract,
+528,03,4,2,88,wvcnz,strife,Is it absent in daily life?,Rb,2.048516035079956,0.0,,abstract_baseline,compose,0.0,3.16,0.0,0.0,5,6,word,baseline,abstract,
+314,03,4,3,53,artificial,corpse,,,,,,concrete_privative,compose,3.85,3.41,0.0,0.0,10,6,phrase,privative,concrete,
+619,03,4,4,7,vpbyzkgrf,bird,,,,,,low,specificity,0.0,4.85,,,9,4,word,,,low
+658,03,4,5,20,mtpv,cat,,,,,,low,specificity,0.0,4.83,,,4,3,word,,,low
+68,03,4,6,12,virtual,beggar,Are they poor?,Rb,1.4740524291992188,0.0,,concrete_privative,compose,3.63,3.15,5.91e-11,6.33e-11,7,6,phrase,privative,concrete,
+310,03,4,7,52,actual,language,,,,,,abstract_subsective,compose,4.6,4.82,0.0,0.0,6,8,phrase,subsective,abstract,
+113,03,4,8,19,imaginary,value,,,,,,abstract_privative,compose,3.56,5.0,0.0,0.0,9,5,phrase,privative,abstract,
+494,03,4,9,83,counterfeit,children,,,,,,concrete_privative,compose,3.64,5.53,0.0,0.0,11,8,phrase,privative,concrete,
+411,03,4,10,69,fxldmr,mosque,,,,,,concrete_baseline,compose,0.0,3.81,0.0,0.0,6,6,word,baseline,concrete,
+333,03,4,11,56,rvqf,doctor,,,,,,concrete_baseline,compose,0.0,5.02,0.0,0.0,4,6,word,baseline,concrete,
+632,03,4,12,11,rain,boots,,,,,,mid,specificity,5.08,4.36,,,4,5,phrase,,,mid
+237,03,4,13,40,htbqzylm,wreck,,,,,,concrete_baseline,compose,0.0,3.96,0.0,0.0,8,5,word,baseline,concrete,
+198,03,4,14,33,xkq,effort,,,,,,abstract_baseline,compose,0.0,4.76,0.0,0.0,3,6,word,baseline,abstract,
+693,03,4,15,31,rvqf,ambassador,,,,,,high,specificity,0.0,3.96,,,4,10,word,,,high
+704,03,4,16,35,yellow,flower,,,,,,mid,specificity,4.84,4.5,,,6,6,phrase,,,mid
+859,03,4,17,87,qxsw,vegetable,Is it good for your health?,Rb,1.1210012435913086,1.0,,low,specificity,0.0,4.18,,,4,9,word,,,low
+699,03,4,18,33,zrtqgfplh,Labrador,,,,,,high,specificity,0.0,3.23,,,9,8,word,,,high
+50,03,4,19,9,fictional,crown,Is is suitable for a TV show?,Rb,2.0963921546936035,1.0,,concrete_privative,compose,3.69,4.53,0.0,0.0,9,5,phrase,privative,concrete,
+347,03,4,20,58,virtual,pronoun,,,,,,abstract_privative,compose,3.63,2.09,0.0,0.0,7,7,phrase,privative,abstract,
+490,03,4,21,82,unique,neglect,,,,,,abstract_subsective,compose,4.66,3.65,0.0,0.0,6,7,phrase,subsective,abstract,
+481,03,4,22,81,authentic,audience,,,,,,concrete_subsective,compose,3.73,4.86,0.0,0.0,9,8,phrase,subsective,concrete,
+566,03,4,23,95,artificial,dungeon,,,,,,concrete_privative,compose,3.85,3.14,0.0,0.0,10,7,phrase,privative,concrete,
+64,03,4,24,11,special,caution,,,,,,abstract_subsective,compose,5.32,3.81,2.75e-08,3.39e-08,7,7,phrase,subsective,abstract,
+104,03,4,25,18,counterfeit,blister,Does it hurt?,Rb,0.8587026596069336,0.0,,concrete_privative,compose,3.64,2.97,0.0,0.0,11,7,phrase,privative,concrete,
+222,03,4,26,37,wvcnz,outcome,,,,,,abstract_baseline,compose,0.0,4.28,0.0,0.0,5,7,word,baseline,abstract,
+817,03,4,27,73,ypdcglkc,sauce,,,,,,low,specificity,0.0,4.79,,,8,5,word,,,low
+896,03,4,28,99,violent,weather,,,,,,mid,specificity,4.34,5.12,,,7,7,phrase,,,mid
+680,03,4,29,27,topical,cream,,,,,,mid,specificity,3.33,4.89,,,7,5,phrase,,,mid
+446,03,4,30,75,phony,girl,,,,,,concrete_privative,compose,2.35,5.29,0.0,0.0,5,4,phrase,privative,concrete,
+608,03,4,31,3,warm,bedding,Is it thin?,Ry,1.4610917568206787,1.0,,mid,specificity,4.92,3.55,,,4,7,phrase,,,mid
+645,03,4,32,15,rvqf,hospital,,,,,,high,specificity,0.0,5.08,,,4,8,word,,,high
+280,03,4,33,47,authentic,greed,,,,,,abstract_subsective,compose,3.73,3.63,0.0,0.0,9,5,phrase,subsective,abstract,
+452,03,4,34,76,phony,novel,,,,,,concrete_privative,compose,2.35,4.43,0.0,0.0,5,5,phrase,privative,concrete,
+636,03,4,35,12,qxsw,barn,,,,,,high,specificity,0.0,4.32,,,4,4,word,,,high
+468,03,4,36,78,zrtqgfplh,sorrow,,,,,,abstract_baseline,compose,0.0,3.56,0.0,0.0,9,6,word,baseline,abstract,
+35,03,4,37,6,virtual,manner,,,,,,abstract_privative,compose,3.63,4.17,6.67e-10,5.4e-10,7,6,phrase,privative,abstract,
+418,03,4,38,70,important,triumph,,,,,,abstract_subsective,compose,5.57,4.01,0.0,0.0,9,7,phrase,subsective,abstract,
+795,03,4,39,65,zbxlv,turkey,,,,,,high,specificity,0.0,4.35,,,5,6,word,,,high
+828,03,4,40,76,rjdnw,clogs,Is it typically made of paper?,Ry,2.225046873092652,1.0,,high,specificity,0.0,3.32,,,5,5,word,,,high
+746,03,4,41,49,striped,horse,,,,,,mid,specificity,3.25,4.99,,,7,5,phrase,,,mid
+599,03,4,42,100,imaginary,wrath,,,,,,abstract_privative,compose,3.56,3.41,0.0,0.0,9,5,phrase,privative,abstract,
+857,03,4,43,86,tined,utensil,,,,,,mid,specificity,1.6,2.51,,,5,7,phrase,,,mid
+401,03,4,44,67,hypothetical,thrill,,,,,,abstract_privative,compose,3.13,3.86,0.0,0.0,12,6,phrase,privative,abstract,
+289,03,4,45,49,actual,port,,,,,,concrete_subsective,compose,4.6,4.49,0.0,0.0,6,4,phrase,subsective,concrete,
+838,03,4,46,80,rjdnw,sphere,,,,,,low,specificity,0.0,3.68,,,5,6,word,,,low
+301,03,4,47,51,bad,mother,,,,,,concrete_subsective,compose,5.56,5.29,0.0,0.0,3,6,phrase,subsective,concrete,
+152,03,4,48,26,fictional,trophy,,,,,,concrete_privative,compose,3.69,4.37,0.0,0.0,9,6,phrase,privative,concrete,
+158,03,4,49,27,imaginary,pheasant,,,,,,concrete_privative,compose,3.56,3.55,0.0,0.0,9,8,phrase,privative,concrete,
+126,03,4,50,21,zbxlv,fame,,,,,,abstract_baseline,compose,0.0,4.18,0.0,0.0,5,4,word,baseline,abstract,
+322,03,4,51,54,old,consent,,,,,,abstract_subsective,compose,5.79,3.86,0.0,0.0,3,7,phrase,subsective,abstract,
+768,03,4,52,56,ypdcglkc,bat,,,,,,high,specificity,0.0,4.3,,,8,3,word,,,high
+718,03,4,53,40,zrtqgfplh,fruit,,,,,,low,specificity,0.0,4.73,,,9,5,word,,,low
+228,03,4,54,38,vpbyzkgrf,mood,,,,,,abstract_baseline,compose,0.0,4.5,0.0,0.0,9,4,word,baseline,abstract,
+518,03,4,55,87,imaginary,laugh,,,,,,concrete_privative,compose,3.56,4.77,1.25e-11,1.06e-11,9,5,phrase,privative,concrete,
+791,03,4,56,64,ringed,planet,,,,,,mid,specificity,2.98,4.66,,,6,6,phrase,,,mid
+48,03,4,57,8,htbqzylm,mischief,,,,,,abstract_baseline,compose,0.0,3.48,0.0,0.0,8,8,word,baseline,abstract,
+417,03,4,58,70,qxsw,laughter,,,,,,concrete_baseline,compose,0.0,3.84,0.0,0.0,4,8,word,baseline,concrete,
+451,03,4,59,76,true,novel,,,,,,concrete_subsective,compose,5.33,4.43,0.0,0.0,4,5,phrase,subsective,concrete,
+248,03,4,60,42,hypothetical,badger,,,,,,concrete_privative,compose,3.13,3.97,0.0,0.0,12,6,phrase,privative,concrete,
+812,03,4,61,71,narrow,river,,,,,,mid,specificity,4.25,4.93,,,6,5,phrase,,,mid
+447,03,4,62,75,fxldmr,girl,,,,,,concrete_baseline,compose,0.0,5.29,0.0,0.0,6,4,word,baseline,concrete,
+205,03,4,63,35,genuine,lettuce,,,,,,concrete_subsective,compose,4.37,3.81,0.0,0.0,7,7,phrase,subsective,concrete,
+107,03,4,64,18,hypothetical,disgust,,,,,,abstract_privative,compose,3.13,3.26,0.0,0.0,12,7,phrase,privative,abstract,
+431,03,4,65,72,mock,power,,,,,,abstract_privative,compose,3.74,5.29,0.0,0.0,4,5,phrase,privative,abstract,
+444,03,4,66,74,rjdnw,madness,,,,,,abstract_baseline,compose,0.0,4.03,0.0,0.0,5,7,word,baseline,abstract,
+297,03,4,67,50,vpbyzkgrf,pulse,,,,,,concrete_baseline,compose,0.0,3.93,0.0,0.0,9,5,word,baseline,concrete,
+200,03,4,68,34,fictitious,throne,,,,,,concrete_privative,compose,2.91,4.0,0.0,0.0,10,6,phrase,privative,concrete,
+437,03,4,69,73,fictional,nuisance,,,,,,abstract_privative,compose,3.69,3.7,0.0,0.0,9,8,phrase,privative,abstract,
+311,03,4,70,52,artificial,language,,,,,,abstract_privative,compose,3.85,4.82,0.0,0.0,10,8,phrase,privative,abstract,
+790,03,4,71,64,xkq,planet,,,,,,low,specificity,0.0,4.66,,,3,6,word,,,low
+96,03,4,72,16,qxsw,mode,,,,,,abstract_baseline,compose,0.0,3.84,0.0,0.0,4,4,word,baseline,abstract,
+548,03,4,73,92,fabricated,bongo,Can it be used as a prop on stage?,,3.00097393989563,0.0,,concrete_privative,compose,2.79,3.04,0.0,0.0,10,5,phrase,privative,concrete,
+409,03,4,74,69,current,mosque,,,,,,concrete_subsective,compose,4.81,3.81,0.0,0.0,7,6,phrase,subsective,concrete,
+62,03,4,75,11,fictitious,trailer,,,,,,concrete_privative,compose,2.91,3.68,0.0,0.0,10,7,phrase,privative,concrete,
+366,03,4,76,61,rjdnw,function,,,,,,abstract_baseline,compose,0.0,4.06,0.0,0.0,5,8,word,baseline,abstract,
+106,03,4,77,18,new,disgust,,,,,,abstract_subsective,compose,5.98,3.26,0.0,0.0,3,7,phrase,subsective,abstract,
+86,03,4,78,15,former,chess,,,,,,concrete_privative,compose,5.0,3.91,0.0,0.0,6,5,phrase,privative,concrete,
+147,03,4,79,25,rvqf,prison,,,,,,concrete_baseline,compose,0.0,4.81,0.0,0.0,4,6,word,baseline,concrete,
+655,03,4,80,19,rvqf,car,Does it have shells?,Ry,1.560826063156128,1.0,,low,specificity,0.0,5.44,,,4,3,word,,,low
+161,03,4,81,27,mythical,inkling,,,,,,abstract_privative,compose,3.34,3.38,0.0,0.0,8,7,phrase,privative,abstract,
+343,03,4,82,58,typical,hydrant,,,,,,concrete_subsective,compose,4.51,2.35,0.0,0.0,7,7,phrase,subsective,concrete,
+763,03,4,83,55,qxsw,mammal,Does it grow roots?,Ry,1.9637465476989744,1.0,,low,specificity,0.0,3.71,,,4,6,word,,,low
+240,03,4,84,40,mghljkqr,curse,,,,,,abstract_baseline,compose,0.0,3.8,0.0,0.0,8,5,word,baseline,abstract,
+706,03,4,85,36,ptrgsbkv,flower,Does it have teeth?,Ry,1.3304402828216553,1.0,,low,specificity,0.0,4.5,,,8,6,word,,,low
+230,03,4,86,39,hypothetical,concert,,,,,,concrete_privative,compose,3.13,4.23,0.0,0.0,12,7,phrase,privative,concrete,
+709,03,4,87,37,vpbyzkgrf,food,,,,,,low,specificity,0.0,5.45,,,9,4,word,,,low
+274,03,4,88,46,typical,deceit,,,,,,abstract_subsective,compose,4.51,3.01,0.0,0.0,7,6,phrase,subsective,abstract,
+307,03,4,89,52,real,husband,,,,,,concrete_subsective,compose,5.53,4.94,0.0,0.0,4,7,phrase,subsective,concrete,
+516,03,4,90,86,mtpv,wisdom,Does it usually come with age?,Rb,2.000649690628052,1.0,,abstract_baseline,compose,0.0,3.92,0.0,0.0,4,6,word,baseline,abstract,
+683,03,4,91,28,petty,crime,,,,,,mid,specificity,3.67,4.9,,,5,5,phrase,,,mid
+609,03,4,92,3,tqvgqrz,blanket,,,,,,high,specificity,0.0,3.93,,,7,7,word,,,high
+69,03,4,93,12,rjdnw,beggar,,,,,,concrete_baseline,compose,0.0,3.15,0.0,0.0,5,6,word,baseline,concrete,
+689,03,4,94,30,calling,device,,,,,,mid,specificity,4.77,4.27,,,7,6,phrase,,,mid
+477,03,4,95,80,bxfjwts,click,,,,,,concrete_baseline,compose,0.0,4.06,0.0,0.0,7,5,word,baseline,concrete,
+681,03,4,96,27,zrtqgfplh,ointment,,,,,,high,specificity,0.0,2.96,,,9,8,word,,,high
+39,03,4,97,7,kmlsdjtw,sunshine,,,,,,concrete_baseline,compose,0.0,4.75,0.0,0.0,8,8,word,baseline,concrete,
+604,03,4,98,2,vpbyzkgrf,amphibian,,,,,,low,specificity,0.0,2.78,,,9,9,word,,,low
+742,03,4,99,48,htbqzylm,hat,,,,,,low,specificity,0.0,4.76,,,8,3,word,,,low
+252,03,4,100,42,htbqzylm,output,,,,,,abstract_baseline,compose,0.0,3.77,0.0,0.0,8,6,word,baseline,abstract,
+738,03,4,101,46,bxfjwts,sapphire,,,,,,high,specificity,0.0,3.58,,,7,8,word,,,high
+806,03,4,102,69,large,reptile,,,,,,mid,specificity,5.1,3.36,,,5,7,phrase,,,mid
+782,03,4,103,61,magnetic,metal,,,,,,mid,specificity,3.7,4.63,,,8,5,phrase,,,mid
+808,03,4,104,70,vpbyzkgrf,reptile,,,,,,low,specificity,0.0,3.36,,,9,7,word,,,low
+223,03,4,105,38,new,crab,,,,,,concrete_subsective,compose,5.98,4.21,0.0,0.0,3,4,phrase,subsective,concrete,
+67,03,4,106,12,unique,beggar,,,,,,concrete_subsective,compose,4.66,3.15,0.0,0.0,6,6,phrase,subsective,concrete,
+290,03,4,107,49,artificial,port,,,,,,concrete_privative,compose,3.85,4.49,0.0,0.0,10,4,phrase,privative,concrete,
+841,03,4,108,81,xkq,stick,,,,,,low,specificity,0.0,5.02,,,3,5,word,,,low
+526,03,4,109,88,perfect,strife,,,,,,abstract_subsective,compose,5.28,3.16,2.78e-11,0.0,7,6,phrase,subsective,abstract,
+731,03,4,110,44,green,gem,,,,,,mid,specificity,5.22,3.95,,,5,3,phrase,,,mid
+370,03,4,111,62,unique,heaven,,,,,,abstract_subsective,compose,4.66,4.6,0.0,0.0,6,6,phrase,subsective,abstract,
+835,03,4,112,79,htbqzylm,sound,,,,,,low,specificity,0.0,5.16,,,8,5,word,,,low
+589,03,4,113,99,new,grave,,,,,,concrete_subsective,compose,5.98,4.2,0.0,0.0,3,5,phrase,subsective,concrete,
+717,03,4,114,39,fxldmr,grape,,,,,,high,specificity,0.0,3.54,,,6,5,word,,,high
+816,03,4,115,72,xkq,empress,,,,,,high,specificity,0.0,3.14,,,3,7,word,,,high
+703,03,4,116,35,ypdcglkc,flower,,,,,,low,specificity,0.0,4.5,,,8,6,word,,,low
+245,03,4,117,41,virtual,progress,,,,,,abstract_privative,compose,3.63,4.68,0.0,0.0,7,8,phrase,privative,abstract,
+143,03,4,118,24,fake,limit,,,,,,abstract_privative,compose,4.51,4.44,0.0,0.0,4,5,phrase,privative,abstract,
+643,03,4,119,15,bxfjwts,building,,,,,,low,specificity,0.0,5.24,,,7,8,word,,,low
+600,03,4,120,100,fxldmr,wrath,,,,,,abstract_baseline,compose,0.0,3.41,0.0,0.0,6,5,word,baseline,abstract,
+630,03,4,121,10,zrtqgfplh,canoe,,,,,,high,specificity,0.0,3.5,,,9,5,word,,,high
+720,03,4,122,40,ypdcglkc,kiwi,,,,,,high,specificity,0.0,3.27,,,8,4,word,,,high
+572,03,4,123,96,imaginary,missile,Can it be used in a battle?,Rb,1.1210012435913086,0.0,,concrete_privative,compose,3.56,3.66,8.37e-11,1.23e-10,9,7,phrase,privative,concrete,
+256,03,4,124,43,new,pause,,,,,,abstract_subsective,compose,5.98,3.86,0.0,0.0,3,5,phrase,subsective,abstract,
+153,03,4,125,26,ptrgsbkv,trophy,,,,,,concrete_baseline,compose,0.0,4.37,0.0,0.0,8,6,word,baseline,concrete,
+342,03,4,126,57,mtpv,doctrine,,,,,,abstract_baseline,compose,0.0,3.17,0.0,0.0,4,8,word,baseline,abstract,
+244,03,4,127,41,unique,progress,,,,,,abstract_subsective,compose,4.66,4.68,0.0,0.0,6,8,phrase,subsective,abstract,
+524,03,4,128,88,spurious,ulcer,,,,,,concrete_privative,compose,2.68,2.86,0.0,0.0,8,5,phrase,privative,concrete,
+691,03,4,129,31,rjdnw,diplomat,,,,,,low,specificity,0.0,3.29,,,5,8,word,,,low
+511,03,4,130,86,average,daylight,,,,,,concrete_subsective,compose,4.73,3.89,0.0,0.0,7,8,phrase,subsective,concrete,
+429,03,4,131,72,wvcnz,door,,,,,,concrete_baseline,compose,0.0,5.26,0.0,0.0,5,4,word,baseline,concrete,
+839,03,4,132,80,lustrous,sphere,,,,,,mid,specificity,2.45,3.68,,,8,6,phrase,,,mid
+545,03,4,133,91,fake,success,,,,,,abstract_privative,compose,4.51,4.92,1.29e-10,1.17e-10,4,7,phrase,privative,abstract,
+407,03,4,134,68,mythical,fate,,,,,,abstract_privative,compose,3.34,4.22,0.0,0.0,8,4,phrase,privative,abstract,
+770,03,4,135,57,spiky,mammal,,,,,,mid,specificity,3.51,3.71,,,5,6,phrase,,,mid
+898,03,4,136,100,kmlsdjtw,wine,,,,,,low,specificity,0.0,4.84,,,8,4,word,,,low
+802,03,4,137,68,zbxlv,rank,,,,,,low,specificity,0.0,3.9,,,5,4,word,,,low
+26,03,4,138,5,hypothetical,brush,,,,,,concrete_privative,compose,3.13,4.29,0.0,0.0,12,5,phrase,privative,concrete,
+140,03,4,139,24,counterfeit,item,,,,,,concrete_privative,compose,3.64,4.7,0.0,0.0,11,4,phrase,privative,concrete,
+243,03,4,140,41,qxsw,mountain,,,,,,concrete_baseline,compose,0.0,4.64,0.0,0.0,4,8,word,baseline,concrete,
+329,03,4,141,55,counterfeit,fault,,,,,,abstract_privative,compose,3.64,4.75,0.0,0.0,11,5,phrase,privative,abstract,
+309,03,4,142,52,fxldmr,husband,,,,,,concrete_baseline,compose,0.0,4.94,0.0,0.0,6,7,word,baseline,concrete,
+63,03,4,143,11,ypdcglkc,trailer,,,,,,concrete_baseline,compose,0.0,3.68,0.0,0.0,8,7,word,baseline,concrete,
+586,03,4,144,98,special,woe,,,,,,abstract_subsective,compose,5.32,3.17,2.19e-10,1.94e-10,7,3,phrase,subsective,abstract,
+874,03,4,145,92,ptrgsbkv,vegetable,,,,,,low,specificity,0.0,4.18,,,8,9,word,,,low
+204,03,4,146,34,fxldmr,method,,,,,,abstract_baseline,compose,0.0,4.12,0.0,0.0,6,6,word,baseline,abstract,
+288,03,4,147,48,zbxlv,trust,Is it inviolable?,Ry,1.9916722774505613,1.0,,abstract_baseline,compose,0.0,5.02,0.0,0.0,5,5,word,baseline,abstract,
+384,03,4,148,64,tqvgqrz,remorse,,,,,,abstract_baseline,compose,0.0,3.29,0.0,0.0,7,7,word,baseline,abstract,
+533,03,4,149,89,past,dissent,,,,,,abstract_privative,compose,5.3,3.22,1.35e-10,9.48e-11,4,7,phrase,privative,abstract,
+476,03,4,150,80,fake,click,,,,,,concrete_privative,compose,4.51,4.06,0.0,0.0,4,5,phrase,privative,concrete,
+184,03,4,151,31,current,reserve,,,,,,abstract_subsective,compose,4.81,4.63,0.0,0.0,7,7,phrase,subsective,abstract,
+94,03,4,152,16,good,mode,,,,,,abstract_subsective,compose,6.35,3.84,0.0,0.0,4,4,phrase,subsective,abstract,
+726,03,4,153,42,ptrgsbkv,apple,Is it stripy?,Ry,1.0302438735961914,1.0,,high,specificity,0.0,4.58,,,8,5,word,,,high
+558,03,4,154,93,mghljkqr,cure,,,,,,abstract_baseline,compose,0.0,4.14,0.0,0.0,8,4,word,baseline,abstract,
+479,03,4,155,80,past,aspect,,,,,,abstract_privative,compose,5.3,4.24,0.0,0.0,4,6,phrase,privative,abstract,
+33,03,4,156,6,fxldmr,mint,,,,,,concrete_baseline,compose,0.0,4.15,0.0,0.0,6,4,word,baseline,concrete,
+232,03,4,157,39,good,romance,,,,,,abstract_subsective,compose,6.35,4.09,0.0,0.0,4,7,phrase,subsective,abstract,
+769,03,4,158,57,ypdcglkc,mammal,,,,,,low,specificity,0.0,3.71,,,8,6,word,,,low
+667,03,4,159,23,wvcnz,cat,,,,,,low,specificity,0.0,4.83,,,5,3,word,,,low
+583,03,4,160,98,unique,slum,,,,,,concrete_subsective,compose,4.66,3.32,0.0,3.03e-11,6,4,phrase,subsective,concrete,
+59,03,4,161,10,phony,scandal,,,,,,abstract_privative,compose,2.35,4.22,1.4e-10,8.33e-11,5,7,phrase,privative,abstract,
+679,03,4,162,27,ptrgsbkv,cream,,,,,,low,specificity,0.0,4.89,,,8,5,word,,,low
+663,03,4,163,21,qxsw,panther,,,,,,high,specificity,0.0,3.28,,,4,7,word,,,high
+829,03,4,164,77,rjdnw,snacks,,,,,,low,specificity,0.0,3.49,,,5,6,word,,,low
+646,03,4,165,16,wvcnz,building,,,,,,low,specificity,0.0,5.24,,,5,8,word,,,low
+892,03,4,166,98,mtpv,vehicle,,,,,,low,specificity,0.0,4.52,,,4,7,word,,,low
+860,03,4,167,87,purple,vegetable,,,,,,mid,specificity,4.29,4.18,,,6,9,phrase,,,mid
+139,03,4,168,24,authentic,item,,,,,,concrete_subsective,compose,3.73,4.7,0.0,0.0,9,4,phrase,subsective,concrete,
+109,03,4,169,19,real,ground,,,,,,concrete_subsective,compose,5.53,5.19,0.0,0.0,4,6,phrase,subsective,concrete,
+467,03,4,170,78,fictitious,sorrow,,,,,,abstract_privative,compose,2.91,3.56,0.0,0.0,10,6,phrase,privative,abstract,
+715,03,4,171,39,ptrgsbkv,fruit,,,,,,low,specificity,0.0,4.73,,,8,5,word,,,low
+416,03,4,172,70,counterfeit,laughter,,,,,,concrete_privative,compose,3.64,3.84,0.0,0.0,11,8,phrase,privative,concrete,
+118,03,4,173,20,actual,sin,,,,,,abstract_subsective,compose,4.6,3.96,0.0,0.0,6,3,phrase,subsective,abstract,
+862,03,4,174,88,ypdcglkc,vegetable,,,,,,low,specificity,0.0,4.18,,,8,9,word,,,low
+320,03,4,175,54,fictitious,mansion,,,,,,concrete_privative,compose,2.91,3.84,0.0,0.0,10,7,phrase,privative,concrete,
+134,03,4,176,23,past,forum,,,,,,concrete_privative,compose,5.3,3.72,0.0,0.0,4,5,phrase,privative,concrete,
+633,03,4,177,11,rjdnw,wellies,,,,,,high,specificity,0.0,3.5,,,5,7,word,,,high
+508,03,4,178,85,genuine,talent,,,,,,abstract_subsective,compose,4.37,4.58,0.0,0.0,7,6,phrase,subsective,abstract,
+294,03,4,179,49,mtpv,drama,,,,,,abstract_baseline,compose,0.0,4.52,0.0,0.0,4,5,word,baseline,abstract,
+464,03,4,180,78,mythical,shotgun,,,,,,concrete_privative,compose,3.34,3.49,0.0,0.0,8,7,phrase,privative,concrete,
+430,03,5,1,72,perfect,power,,,,,,abstract_subsective,compose,5.28,5.29,0.0,0.0,7,5,phrase,subsective,abstract,
+760,03,5,2,54,rvqf,male,,,,,,low,specificity,0.0,4.66,,,4,4,word,,,low
+207,03,5,3,35,qxsw,lettuce,,,,,,concrete_baseline,compose,0.0,3.81,0.0,0.0,4,7,word,baseline,concrete,
+576,03,5,4,96,tqvgqrz,hardship,,,,,,abstract_baseline,compose,0.0,3.52,0.0,0.0,7,8,word,baseline,abstract,
+789,03,5,5,63,vpbyzkgrf,hermit,,,,,,high,specificity,0.0,3.0,,,9,6,word,,,high
+827,03,5,6,76,wooden,shoe,,,,,,mid,specificity,4.29,4.15,,,6,4,phrase,,,mid
+460,03,5,7,77,old,ordeal,,,,,,abstract_subsective,compose,5.79,3.63,0.0,0.0,3,6,phrase,subsective,abstract,
+591,03,5,8,99,ptrgsbkv,grave,,,,,,concrete_baseline,compose,0.0,4.2,0.0,0.0,8,5,word,baseline,concrete,
+34,03,5,9,6,unique,manner,,,,,,abstract_subsective,compose,4.66,4.17,5.61e-08,4.5e-08,6,6,phrase,subsective,abstract,
+603,03,5,10,1,vpbyzkgrf,bronze,,,,,,high,specificity,0.0,4.41,,,9,6,word,,,high
+22,03,5,11,4,special,spirit,,,,,,abstract_subsective,compose,5.32,4.66,1.04e-08,8.58e-09,7,6,phrase,subsective,abstract,
+647,03,5,12,16,residential,building,Does it have wheels?,Ry,1.1459357738494873,1.0,,mid,specificity,3.95,5.24,,,11,8,phrase,,,mid
+267,03,5,13,45,zbxlv,metal,,,,,,concrete_baseline,compose,0.0,4.63,0.0,0.0,5,5,word,baseline,concrete,
+688,03,5,14,30,mghljkqr,device,,,,,,low,specificity,0.0,4.27,,,8,6,word,,,low
+762,03,5,15,54,wvcnz,boy,,,,,,high,specificity,0.0,5.28,,,5,3,word,,,high
+830,03,5,16,77,potato,snacks,,,,,,mid,specificity,4.44,3.49,,,6,6,phrase,,,mid
+743,03,5,17,48,protective,hat,,,,,,mid,specificity,3.83,4.76,,,10,3,phrase,,,mid
+323,03,5,18,54,imaginary,consent,,,,,,abstract_privative,compose,3.56,3.86,0.0,0.0,9,7,phrase,privative,abstract,
+554,03,5,19,93,hypothetical,hug,,,,,,concrete_privative,compose,3.13,4.13,0.0,0.0,12,3,phrase,privative,concrete,
+637,03,5,20,13,mtpv,building,,,,,,low,specificity,0.0,5.24,,,4,8,word,,,low
+221,03,5,21,37,artificial,outcome,,,,,,abstract_privative,compose,3.85,4.28,0.0,0.0,10,7,phrase,privative,abstract,
+776,03,5,22,59,tall,mammal,,,,,,mid,specificity,4.51,3.71,,,4,6,phrase,,,mid
+13,03,5,23,3,average,sauce,,,,,,concrete_subsective,compose,4.73,4.79,6.87e-11,0.0,7,5,phrase,subsective,concrete,
+698,03,5,24,33,guide,dog,Is it disobedient? ,Ry,1.2985260486602783,1.0,,mid,specificity,4.66,5.17,,,5,3,phrase,,,mid
+687,03,5,25,29,rjdnw,mob,,,,,,high,specificity,0.0,3.71,,,5,3,word,,,high
+293,03,5,26,49,fabricated,drama,,,,,,abstract_privative,compose,2.79,4.52,0.0,0.0,10,5,phrase,privative,abstract,
+588,03,5,27,98,qxsw,woe,,,,,,abstract_baseline,compose,0.0,3.17,0.0,0.0,4,3,word,baseline,abstract,
+3,03,5,28,1,tqvgqrz,sulphur,,,,,,concrete_baseline,compose,0.0,3.35,0.0,0.0,7,7,word,baseline,concrete,
+875,03,5,29,92,starchy,vegetable,,,,,,mid,specificity,2.52,4.18,,,7,9,phrase,,,mid
+523,03,5,30,88,typical,ulcer,Does it hurt? ,Rb,1.3633530139923096,1.0,,concrete_subsective,compose,4.51,2.86,5.76e-09,4.21e-09,7,5,phrase,subsective,concrete,
+239,03,5,31,40,virtual,curse,,,,,,abstract_privative,compose,3.63,3.8,0.0,0.0,7,5,phrase,privative,abstract,
+556,03,5,32,93,typical,cure,Is it useful as medicine?,Rb,1.0043137073516846,1.0,,abstract_subsective,compose,4.51,4.14,6.93e-10,1.29e-09,7,4,phrase,subsective,abstract,
+515,03,5,33,86,mock,wisdom,,,,,,abstract_privative,compose,3.74,3.92,2.23e-10,1.38e-10,4,6,phrase,privative,abstract,
+722,03,5,34,41,juicy,fruit,,,,,,mid,specificity,3.86,4.73,,,5,5,phrase,,,mid
+117,03,5,35,20,ypdcglkc,stab,,,,,,concrete_baseline,compose,0.0,3.87,0.0,0.0,8,4,word,baseline,concrete,
+538,03,5,36,90,authentic,issue,,,,,,abstract_subsective,compose,3.73,5.18,5.62e-10,3.24e-10,9,5,phrase,subsective,abstract,
+216,03,5,37,36,fxldmr,service,,,,,,abstract_baseline,compose,0.0,5.2,0.0,0.0,6,7,word,baseline,abstract,
+851,03,5,38,84,coniferous,tree,,,,,,mid,specificity,2.23,4.95,,,10,4,phrase,,,mid
+657,03,5,39,19,fxldmr,limousine,Is it typically flat?,Ry,1.6854913234710691,0.0,,high,specificity,0.0,3.11,,,6,9,word,,,high
+501,03,5,40,84,ypdcglkc,treasure,,,,,,concrete_baseline,compose,0.0,4.46,0.0,0.0,8,8,word,baseline,concrete,
+601,03,5,41,1,mghljkqr,alloy,,,,,,low,specificity,0.0,3.13,,,8,5,word,,,low
+849,03,5,42,83,rvqf,spade,,,,,,high,specificity,0.0,3.59,,,4,5,word,,,high
+123,03,5,43,21,rjdnw,beer,Is it efferverscent? ,Ry,1.746328592300415,0.0,,concrete_baseline,compose,0.0,4.47,0.0,0.0,5,4,word,baseline,concrete,
+872,03,5,44,91,spherical,vegetable,,,,,,mid,specificity,2.79,4.18,,,9,9,phrase,,,mid
+226,03,5,45,38,actual,mood,,,,,,abstract_subsective,compose,4.6,4.5,0.0,0.0,6,4,phrase,subsective,abstract,
+493,03,5,46,83,authentic,children,,,,,,concrete_subsective,compose,3.73,5.53,0.0,0.0,9,8,phrase,subsective,concrete,
+420,03,5,47,70,mghljkqr,triumph,,,,,,abstract_baseline,compose,0.0,4.01,0.0,0.0,8,7,word,baseline,abstract,
+540,03,5,48,90,mghljkqr,issue,Is it to be investigated?,Ry,2.2290356159210205,0.0,,abstract_baseline,compose,0.0,5.18,0.0,0.0,8,5,word,baseline,abstract,
+281,03,5,49,47,counterfeit,greed,,,,,,abstract_privative,compose,3.64,3.63,0.0,0.0,11,5,phrase,privative,abstract,
+5,03,5,50,1,past,longing,,,,,,abstract_privative,compose,5.3,3.41,2.16e-10,1.66e-10,4,7,phrase,privative,abstract,
+45,03,5,51,8,rjdnw,reptile,,,,,,concrete_baseline,compose,0.0,3.36,0.0,0.0,5,7,word,baseline,concrete,
+784,03,5,52,62,tqvgqrz,odour,,,,,,low,specificity,0.0,3.12,,,7,5,word,,,low
+9,03,5,53,2,wvcnz,poison,,,,,,concrete_baseline,compose,0.0,3.92,0.0,0.0,5,6,word,baseline,concrete,
+825,03,5,54,75,mghljkqr,stool,,,,,,high,specificity,0.0,3.71,,,8,5,word,,,high
+565,03,5,55,95,actual,dungeon,,,,,,concrete_subsective,compose,4.6,3.14,1.36e-10,1.28e-10,6,7,phrase,subsective,concrete,
+435,03,5,56,73,zrtqgfplh,bomber,,,,,,concrete_baseline,compose,0.0,3.86,0.0,0.0,9,6,word,baseline,concrete,
+578,03,5,57,97,imaginary,portrait,Is it valuable?,Rb,1.7922120094299316,0.0,,concrete_privative,compose,3.56,4.18,5.42e-09,7.02e-09,9,8,phrase,privative,concrete,
+44,03,5,58,8,fabricated,reptile,Is it cool to the touch?,Rb,1.3025200366973877,0.0,,concrete_privative,compose,2.79,3.36,0.0,0.0,10,7,phrase,privative,concrete,
+257,03,5,59,43,hypothetical,pause,,,,,,abstract_privative,compose,3.13,3.86,0.0,0.0,12,5,phrase,privative,abstract,
+287,03,5,60,48,false,trust,,,,,,abstract_privative,compose,4.76,5.02,0.0,0.0,5,5,phrase,privative,abstract,
+260,03,5,61,44,counterfeit,midwife,,,,,,concrete_privative,compose,3.64,3.59,0.0,0.0,11,7,phrase,privative,concrete,
+832,03,5,62,78,kmlsdjtw,snake,,,,,,low,specificity,0.0,4.36,,,8,5,word,,,low
+11,03,5,63,2,phony,terror,,,,,,abstract_privative,compose,2.35,4.06,0.0,2.13e-11,5,6,phrase,privative,abstract,
+549,03,5,64,92,rvqf,bongo,,,,,,concrete_baseline,compose,0.0,3.04,0.0,0.0,4,5,word,baseline,concrete,
+37,03,5,65,7,unique,sunshine,,,,,,concrete_subsective,compose,4.66,4.75,2.62e-11,0.0,6,8,phrase,subsective,concrete,
+156,03,5,66,26,tqvgqrz,skill,Do musicians have it?,Rb,1.9906814098358157,1.0,,abstract_baseline,compose,0.0,4.4,0.0,0.0,7,5,word,baseline,abstract,
+685,03,5,67,29,wvcnz,crowd,,,,,,low,specificity,0.0,4.76,,,5,5,word,,,low
+305,03,5,68,51,past,idea,,,,,,abstract_privative,compose,5.3,5.56,0.0,0.0,4,4,phrase,privative,abstract,
+651,03,5,69,17,xkq,cabin,,,,,,high,specificity,0.0,3.9,,,3,5,word,,,high
+304,03,5,70,51,special,idea,,,,,,abstract_subsective,compose,5.32,5.56,0.0,0.0,7,4,phrase,subsective,abstract,
+132,03,5,71,22,zbxlv,glamour,,,,,,abstract_baseline,compose,0.0,3.88,0.0,0.0,5,7,word,baseline,abstract,
+375,03,5,72,63,ptrgsbkv,troll,,,,,,concrete_baseline,compose,0.0,3.32,0.0,0.0,8,5,word,baseline,concrete,
+247,03,5,73,42,new,badger,,,,,,concrete_subsective,compose,5.98,3.97,0.0,0.0,3,6,phrase,subsective,concrete,
+213,03,5,74,36,zbxlv,street,,,,,,concrete_baseline,compose,0.0,5.2,0.0,0.0,5,6,word,baseline,concrete,
+894,03,5,75,98,rvqf,tractor,,,,,,high,specificity,0.0,3.84,,,4,7,word,,,high
+735,03,5,76,45,zrtqgfplh,ruby,Is it for eating?,Ry,0.9724018573760986,1.0,,high,specificity,0.0,4.14,,,9,4,word,,,high
+594,03,5,77,99,zrtqgfplh,failure,,,,,,abstract_baseline,compose,0.0,4.43,0.0,0.0,9,7,word,baseline,abstract,
+867,03,5,78,89,qxsw,corn,,,,,,high,specificity,0.0,3.94,,,4,4,word,,,high
+887,03,5,79,96,underwater,vehicle,,,,,,mid,specificity,4.02,4.52,,,10,7,phrase,,,mid
+531,03,5,80,89,ypdcglkc,carcass,,,,,,concrete_baseline,compose,0.0,3.45,0.0,0.0,8,7,word,baseline,concrete,
+575,03,5,81,96,fictitious,hardship,Is it to be investigated?,Ry,2.310826301574707,0.0,,abstract_privative,compose,2.91,3.52,0.0,0.0,10,8,phrase,privative,abstract,
+224,03,5,82,38,hypothetical,crab,,,,,,concrete_privative,compose,3.13,4.21,0.0,0.0,12,4,phrase,privative,concrete,
+798,03,5,83,66,bxfjwts,shark,,,,,,high,specificity,0.0,4.17,,,7,5,word,,,high
+372,03,5,84,62,rvqf,heaven,,,,,,abstract_baseline,compose,0.0,4.6,0.0,0.0,4,6,word,baseline,abstract,
+174,03,5,85,29,mghljkqr,truth,,,,,,abstract_baseline,compose,0.0,4.91,0.0,0.0,8,5,word,baseline,abstract,
+105,03,5,86,18,vpbyzkgrf,blister,,,,,,concrete_baseline,compose,0.0,2.97,0.0,0.0,9,7,word,baseline,concrete,
+336,03,5,87,56,kmlsdjtw,interest,,,,,,abstract_baseline,compose,0.0,5.05,0.0,0.0,8,8,word,baseline,abstract,
+783,03,5,88,61,ypdcglkc,iron,,,,,,high,specificity,0.0,4.52,,,8,4,word,,,high
+389,03,5,89,65,fictitious,risk,,,,,,abstract_privative,compose,2.91,4.98,0.0,0.0,10,4,phrase,privative,abstract,
+233,03,5,90,39,fictitious,romance,,,,,,abstract_privative,compose,2.91,4.09,0.0,0.0,10,7,phrase,privative,abstract,
+732,03,5,91,44,fxldmr,emerald,,,,,,high,specificity,0.0,3.23,,,6,7,word,,,high
+400,03,5,92,67,new,thrill,,,,,,abstract_subsective,compose,5.98,3.86,0.0,0.0,3,6,phrase,subsective,abstract,
+100,03,5,93,17,important,blessing,,,,,,abstract_subsective,compose,5.57,3.81,0.0,0.0,9,8,phrase,subsective,abstract,
+662,03,5,94,21,black,cat,,,,,,mid,specificity,5.26,4.83,,,5,3,phrase,,,mid
+203,03,5,95,34,mock,method,,,,,,abstract_privative,compose,3.74,4.12,0.0,0.0,4,6,phrase,privative,abstract,
+843,03,5,96,81,zrtqgfplh,icicle,Is it cold?,Rb,1.650589942932129,1.0,,high,specificity,0.0,2.4,,,9,6,word,,,high
+865,03,5,97,89,ptrgsbkv,vegetable,,,,,,low,specificity,0.0,4.18,,,8,9,word,,,low
+854,03,5,98,85,tropical,tree,,,,,,mid,specificity,3.87,4.95,,,8,4,phrase,,,mid
+484,03,5,99,81,average,attempt,,,,,,abstract_subsective,compose,4.73,4.6,0.0,0.0,7,7,phrase,subsective,abstract,
+745,03,5,100,49,htbqzylm,horse,Does it have scales?,Ry,1.4341683387756348,1.0,,low,specificity,0.0,4.99,,,8,5,word,,,low
+120,03,5,101,20,zrtqgfplh,sin,,,,,,abstract_baseline,compose,0.0,3.96,0.0,0.0,9,3,word,baseline,abstract,
+60,03,5,102,10,ypdcglkc,scandal,Is it morally dubious?,Ry,1.8360941410064695,0.0,,abstract_baseline,compose,0.0,4.22,0.0,0.0,8,7,word,baseline,abstract,
+487,03,5,103,82,average,vomit,,,,,,concrete_subsective,compose,4.73,3.46,0.0,0.0,7,5,phrase,subsective,concrete,
+503,03,5,104,84,phony,pleasure,,,,,,abstract_privative,compose,2.35,4.66,0.0,0.0,5,8,phrase,privative,abstract,
+194,03,5,105,33,mythical,salt,,,,,,concrete_privative,compose,3.34,4.69,0.0,0.0,8,4,phrase,privative,concrete,
+306,03,5,106,51,rvqf,idea,,,,,,abstract_baseline,compose,0.0,5.56,0.0,0.0,4,4,word,baseline,abstract,
+677,03,5,107,26,professional,cook,,,,,,mid,specificity,4.69,5.03,,,12,4,phrase,,,mid
+1,03,5,108,1,old,sulphur,,,,,,concrete_subsective,compose,5.79,3.35,5.79e-10,1.71e-09,3,7,phrase,subsective,concrete,
+605,03,5,109,2,hopping,amphibian,,,,,,mid,specificity,3.59,2.78,,,7,9,phrase,,,mid
+167,03,5,110,28,false,option,,,,,,abstract_privative,compose,4.76,4.61,0.0,0.0,5,6,phrase,privative,abstract,
+521,03,5,111,87,fabricated,peace,Is it good to restore?,Rb,1.333437442779541,1.0,,abstract_privative,compose,2.79,4.74,0.0,0.0,10,5,phrase,privative,abstract,
+640,03,5,112,14,xkq,building,,,,,,low,specificity,0.0,5.24,,,3,8,word,,,low
+295,03,5,113,50,true,pulse,,,,,,concrete_subsective,compose,5.33,3.93,0.0,0.0,4,5,phrase,subsective,concrete,
+711,03,5,114,37,xkq,pasta,,,,,,high,specificity,0.0,4.19,,,3,5,word,,,high
+754,03,5,115,52,vpbyzkgrf,instrument,,,,,,low,specificity,0.0,4.22,,,9,10,word,,,low
+428,03,5,116,72,false,door,,,,,,concrete_privative,compose,4.76,5.26,0.0,0.0,5,4,phrase,privative,concrete,
+819,03,5,117,73,qxsw,ketchup,,,,,,high,specificity,0.0,3.59,,,4,7,word,,,high
+737,03,5,118,46,blue,gem,Is it valuable?,Rb,0.8068442344665527,1.0,,mid,specificity,5.16,3.95,,,4,3,phrase,,,mid
+641,03,5,119,14,industrial,building,,,,,,mid,specificity,4.48,5.24,,,10,8,phrase,,,mid
+283,03,5,120,48,perfect,taste,,,,,,concrete_subsective,compose,5.28,4.95,0.0,0.0,7,5,phrase,subsective,concrete,
+593,03,5,121,99,mock,failure,,,,,,abstract_privative,compose,3.74,4.43,0.0,0.0,4,7,phrase,privative,abstract,
+580,03,5,122,97,unique,instinct,,,,,,abstract_subsective,compose,4.66,4.01,7.51e-10,4.59e-10,6,8,phrase,subsective,abstract,
+390,03,5,123,65,kmlsdjtw,risk,Is it good in moderation?,,3.000981569290161,0.0,,abstract_baseline,compose,0.0,4.98,0.0,0.0,8,4,word,baseline,abstract,
+557,03,5,124,93,spurious,cure,,,,,,abstract_privative,compose,2.68,4.14,5.46e-11,5.11e-11,8,4,phrase,privative,abstract,
+654,03,5,125,18,htbqzylm,BMW,,,,,,high,specificity,0.0,3.52,,,8,3,word,,,high
+186,03,5,126,31,xkq,reserve,,,,,,abstract_baseline,compose,0.0,4.63,0.0,0.0,3,7,word,baseline,abstract,
+259,03,5,127,44,authentic,midwife,,,,,,concrete_subsective,compose,3.73,3.59,0.0,0.0,9,7,phrase,subsective,concrete,
+473,03,5,128,79,false,despair,,,,,,abstract_privative,compose,4.76,3.81,0.0,0.0,5,7,phrase,privative,abstract,
+241,03,5,129,41,bad,mountain,,,,,,concrete_subsective,compose,5.56,4.64,0.0,0.0,3,8,phrase,subsective,concrete,
+820,03,5,130,74,wvcnz,sculpture,Is it decorative?,Ry,2.3427422046661377,0.0,,low,specificity,0.0,4.05,,,5,9,word,,,low
+262,03,5,131,44,important,virtue,Is it to be disregarded?,Ry,1.4092357158660889,1.0,,abstract_subsective,compose,5.57,3.51,0.0,0.0,9,6,phrase,subsective,abstract,
+182,03,5,132,31,mythical,bread,Can it be from a story?,Rb,1.861027479171753,1.0,,concrete_privative,compose,3.34,4.69,0.0,0.0,8,5,phrase,privative,concrete,
+563,03,5,133,94,mock,plea,,,,,,abstract_privative,compose,3.74,3.63,4.51e-10,3.89e-10,4,4,phrase,privative,abstract,
+434,03,5,134,73,imaginary,bomber,,,,,,concrete_privative,compose,3.56,3.86,0.0,0.0,9,6,phrase,privative,concrete,
+21,03,5,135,4,qxsw,band,,,,,,concrete_baseline,compose,0.0,4.94,0.0,0.0,4,4,word,baseline,concrete,
+426,03,5,136,71,fxldmr,excuse,,,,,,abstract_baseline,compose,0.0,4.86,0.0,0.0,6,6,word,baseline,abstract,
+324,03,5,137,54,htbqzylm,consent,,,,,,abstract_baseline,compose,0.0,3.86,0.0,0.0,8,7,word,baseline,abstract,
+506,03,5,138,85,counterfeit,singer,,,,,,concrete_privative,compose,3.64,4.48,0.0,0.0,11,6,phrase,privative,concrete,
+758,03,5,139,53,smoky,liquor,,,,,,mid,specificity,3.47,3.48,,,5,6,phrase,,,mid
+627,03,5,140,9,qxsw,swan,,,,,,high,specificity,0.0,3.98,,,4,4,word,,,high
+656,03,5,141,19,luxurious,car,,,,,,mid,specificity,3.56,5.44,,,9,3,phrase,,,mid
+559,03,5,142,94,real,gorge,,,,,,concrete_subsective,compose,5.53,3.52,2.06e-10,1.84e-10,4,5,phrase,subsective,concrete,
+229,03,5,143,39,new,concert,,,,,,concrete_subsective,compose,5.98,4.23,0.0,0.0,3,7,phrase,subsective,concrete,
+678,03,5,144,26,zbxlv,chef,,,,,,high,specificity,0.0,4.7,,,5,4,word,,,high
+552,03,5,145,92,rvqf,truce,,,,,,abstract_baseline,compose,0.0,3.19,0.0,0.0,4,5,word,baseline,abstract,
+438,03,5,146,73,rjdnw,nuisance,,,,,,abstract_baseline,compose,0.0,3.7,0.0,0.0,5,8,word,baseline,abstract,
+214,03,5,147,36,bad,service,,,,,,abstract_subsective,compose,5.56,5.2,0.0,0.0,3,7,phrase,subsective,abstract,
+278,03,5,148,47,past,rash,,,,,,concrete_privative,compose,5.3,3.61,0.0,0.0,4,4,phrase,privative,concrete,
+196,03,5,149,33,new,effort,,,,,,abstract_subsective,compose,5.98,4.76,0.0,0.0,3,6,phrase,subsective,abstract,
+54,03,5,150,9,ptrgsbkv,faith,,,,,,abstract_baseline,compose,0.0,4.67,0.0,0.0,8,5,word,baseline,abstract,
+376,03,5,151,63,genuine,setback,,,,,,abstract_subsective,compose,4.37,3.51,0.0,0.0,7,7,phrase,subsective,abstract,
+725,03,5,152,42,crisp,fruit,,,,,,mid,specificity,4.05,4.73,,,5,5,phrase,,,mid
+771,03,5,153,57,htbqzylm,hedgehog,Has it got spines?,Rb,1.2077734470367432,1.0,,high,specificity,0.0,3.72,,,8,8,word,,,high
+606,03,5,154,2,mghljkqr,frog,,,,,,high,specificity,0.0,4.05,,,8,4,word,,,high
+560,03,5,155,94,mythical,gorge,,,,,,concrete_privative,compose,3.34,3.52,0.0,0.0,8,5,phrase,privative,concrete,
+404,03,5,156,68,fictional,vessel,,,,,,concrete_privative,compose,3.69,3.93,0.0,0.0,9,6,phrase,privative,concrete,
+567,03,5,157,95,mghljkqr,dungeon,Is it light and airy?,Ry,1.2376887798309326,1.0,,concrete_baseline,compose,0.0,3.14,0.0,0.0,8,7,word,baseline,concrete,
+885,03,5,158,95,mghljkqr,chariot,,,,,,high,specificity,0.0,3.22,,,8,7,word,,,high
+340,03,5,159,57,bad,doctrine,,,,,,abstract_subsective,compose,5.56,3.17,0.0,0.0,3,8,phrase,subsective,abstract,
+507,03,5,160,85,bxfjwts,singer,,,,,,concrete_baseline,compose,0.0,4.48,0.0,0.0,7,6,word,baseline,concrete,
+405,03,5,161,68,bxfjwts,vessel,,,,,,concrete_baseline,compose,0.0,3.93,0.0,0.0,7,6,word,baseline,concrete,
+728,03,5,162,43,outer,garment,,,,,,mid,specificity,4.01,3.29,,,5,7,phrase,,,mid
+793,03,5,163,65,zbxlv,poultry,,,,,,low,specificity,0.0,3.21,,,5,7,word,,,low
+465,03,5,164,78,vpbyzkgrf,shotgun,Is it safe?,Ry,1.0841000080108645,1.0,,concrete_baseline,compose,0.0,3.49,0.0,0.0,9,7,word,baseline,concrete,
+300,03,5,165,50,fxldmr,outlook,,,,,,abstract_baseline,compose,0.0,3.81,0.0,0.0,6,7,word,baseline,abstract,
+403,03,5,166,68,genuine,vessel,,,,,,concrete_subsective,compose,4.37,3.93,0.0,0.0,7,6,phrase,subsective,concrete,
+462,03,5,167,77,zbxlv,ordeal,,,,,,abstract_baseline,compose,0.0,3.63,0.0,0.0,5,6,word,baseline,abstract,
+175,03,5,168,30,perfect,dinner,,,,,,concrete_subsective,compose,5.28,4.77,0.0,0.0,7,6,phrase,subsective,concrete,
+24,03,5,169,4,ptrgsbkv,spirit,,,,,,abstract_baseline,compose,0.0,4.66,0.0,0.0,8,6,word,baseline,abstract,
+171,03,5,170,29,kmlsdjtw,dog,,,,,,concrete_baseline,compose,0.0,5.17,0.0,0.0,8,3,word,baseline,concrete,
+99,03,5,171,17,kmlsdjtw,fireworks,,,,,,concrete_baseline,compose,0.0,3.9,0.0,0.0,8,9,word,baseline,concrete,
+114,03,5,172,19,ptrgsbkv,value,,,,,,abstract_baseline,compose,0.0,5.0,0.0,0.0,8,5,word,baseline,abstract,
+864,03,5,173,88,mghljkqr,carrot,Does it grow on a tree?,Ry,1.1948034763336182,1.0,,high,specificity,0.0,4.08,,,8,6,word,,,high
+330,03,5,174,55,htbqzylm,fault,,,,,,abstract_baseline,compose,0.0,4.75,0.0,0.0,8,5,word,baseline,abstract,
+739,03,5,175,47,ypdcglkc,handle,,,,,,low,specificity,0.0,4.59,,,8,6,word,,,low
+42,03,5,176,7,xkq,respect,,,,,,abstract_baseline,compose,0.0,4.77,0.0,0.0,3,7,word,baseline,abstract,
+413,03,5,177,69,imaginary,verge,,,,,,abstract_privative,compose,3.56,3.65,0.0,0.0,9,5,phrase,privative,abstract,
+767,03,5,178,56,nocturnal,mammal,Does it lay eggs?,Rb,1.823124647140503,0.0,,mid,specificity,3.35,3.71,,,9,6,phrase,,,mid
+377,03,5,179,63,fictional,setback,,,,,,abstract_privative,compose,3.69,3.51,0.0,0.0,9,7,phrase,privative,abstract,
+539,03,5,180,90,counterfeit,issue,,,,,,abstract_privative,compose,3.64,5.18,4.92e-10,3.12e-10,11,5,phrase,privative,abstract,
