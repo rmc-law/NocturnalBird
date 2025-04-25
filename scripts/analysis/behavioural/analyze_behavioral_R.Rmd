@@ -17,6 +17,7 @@ library(lmerTest)
 library(emmeans)
 library(car)
 library(effects)
+library(ggplot2)
 ```
 
 # Analyses of behavioural data from MEEG study of conceptual specificity in words and phrases
@@ -129,21 +130,21 @@ model_acc.full = glmer(hit ~ zipf_noun + specificity + (1|participant) + (1|item
 print(summary(model_acc.base))
 print(summary(model_acc.full))
 anova(model_acc.base, model_acc.full)
+print(Anova(model_acc.full))
 
-# estimate marginal means
-model.emm <- emmeans(model_acc.full, ~ zipf_noun + specificity)
-
-# compute pairwise comparisons
-comparison_results <- pairs(model.emm, adjust='tukey')
-# add asterisks for significant values
-comparison_results.df <- as.data.frame(comparison_results)
-comparison_results.df$significance <- cut(comparison_results.df$p.value,
-                                    breaks = c(-Inf, 0.001, 0.01, 0.05, Inf),
-                                    labels = c("***", "**", "*", ""))
-print(comparison_results.df)
 ```
 
-From the `lmer` model, it looks like there is a marginal effect of frequency and no effect of specificity. It could be that our task is not sensitive to specificity the way picture matching tasks might (cf. Rogers & McClelland, 2003).
+From the `lmer` model, it looks like there is a significant effect of zipf frequency of the noun and no effect of specificity. It could be that our task is not sensitive to specificity the way picture matching tasks might (cf. Rogers & McClelland, 2003). 
+
+```{r plot relationship between zipf and hit rate}
+predicted <- data.frame(
+  zipf_noun = group_data$zipf_noun,
+  accuracy = predict(model_acc.full, re.form = NA)
+)
+ggplot(predicted, aes(x = zipf_noun, y = accuracy)) +
+  geom_point() +
+  geom_smooth(method = "lm")
+```
 
 ```{r plot emmeans results Accuracy}
 
@@ -220,12 +221,12 @@ ggsave(filename = file.path(results_dir, 'fig_rt_by_specificity.jpg'),
 
 # fit linear mixed models
 # by-participant and by-item varying intercepts
-model_rt.base = lmer(RT ~ specificity + (1|participant) + (1|item_nr), data=group_data, REML=TRUE)
-model_rt.full = lmer(RT ~ zipf_noun + specificity + (1|participant) + (1|item_nr), data=group_data, REML=TRUE)
+model_rt.base = lmer(RT ~ zipf_noun + (1|participant) + (1|item_nr), data=group_data, REML=TRUE)
+model_rt.full = lmer(RT ~ zipf_noun * specificity + (1|participant) + (1|item_nr), data=group_data, REML=TRUE)
 print(summary(model_rt.base))
 print(summary(model_rt.full))
 print(anova(model_rt.base, model_rt.full))
-
+print(Anova(model_rt.full))
 # # estimate marginal means
 # model.emm <- emmeans(model_rt, ~ specificity)
 # 
@@ -240,6 +241,16 @@ print(anova(model_rt.base, model_rt.full))
 ```
 
 Looks like there is also no effect of specificity on reaction times.
+
+```{r plot relationship between zipf and reaction time}
+# predicted <- data.frame(
+#   zipf_noun = group_data$zipf_noun,
+#   rt = predict(model_rt.full, re.form = NA)
+# )
+# ggplot(predicted, aes(x = zipf_noun, y = rt)) +
+#   geom_point() +
+#   geom_smooth(method = "lm")
+```
 
 ```{r plot emmeans results RT}
 
