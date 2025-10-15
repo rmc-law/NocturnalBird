@@ -1,13 +1,8 @@
+import matplotlib.pyplot as plt
 color_scheme = {
-    'concrete-baseline': "#ffd700",
-    'concrete-subsective': "#ffb14e",
-    'concrete-privative': "#fa8775",
-    'abstract-baseline': "#cd34b5",
-    'abstract-subsective': "#9d02d7",
-    'abstract-privative': "#2E0DCA",
-    'baseline': "#f0f0f0",
-    'subsective': "#bdbdbd",
-    'privative': "#636363",
-    'marginal': '#ffff00',
-    'significant': '#addd8e'
+    'low': plt.cm.plasma_r(0.2),
+    'mid': plt.cm.plasma_r(0.4),
+    'high': plt.cm.plasma_r(0.6),
+    'lh': '#99d8c9',
+    'rh': '#2ca25f'
 }

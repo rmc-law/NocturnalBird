@@ -32,7 +32,7 @@ os.environ['SUBJECTS_DIR'] = subjects_dir
 fsaverage_src_fname = op.join(subjects_dir, 'fsaverage_src', 'fsaverage_src_oct6_src.fif')
 src_fsaverage = read_source_spaces(fsaverage_src_fname, verbose=False)
 stc_path = op.join(data_dir, 'stcs')
-analysis = input('analysis? (specificity, specificity_word): ')
+analysis = 'specificity'
 
 # label annot
 parc = 'semantics'
@@ -40,7 +40,7 @@ parc = 'semantics'
 # # del annot[2] # to delete visual sources
 # assert len(annot) == 4 # should be four rois
 
-results_dir = '/imaging/hauk/rl05/fake_diamond/results/neural/roi/anova/'
+results_dir = '/imaging/hauk/rl05/NocturnalBird/results/neural/roi/anova/'
 times = np.linspace(0., 0.8, 200)
 
 
@@ -115,7 +115,7 @@ stc_reset = ds['stcs']
 
 #%% plot figures
     
-fig_dir = op.join(config.project_repo, 'figures', 'univariate')
+fig_dir = '/imaging/hauk/rl05/NocturnalBird/figures/univariate'
 
 if roi_to_plot == 'ATL':
     rois = ['anteriortemporal-lh','anteriortemporal-rh']
@@ -125,7 +125,8 @@ if roi_to_plot == 'ATL':
 else:
     rois = ['anteriortemporal-lh','anteriortemporal-rh','posteriortemporal-lh','posteriortemporal-rh',
             'inferiorfrontal-lh','inferiorfrontal-rh','temporoparietal-lh','temporoparietal-rh']
-    roi_names = ['anterior temporal', 'posterior temporal', 'inferior frontal', 'temporo parietal']
+    roi_names = ['Left ATL', 'Right ATL','Left PTL', 'Right PTL',
+                 'Left IFC', 'Right IFC','Left TPJ', 'Right TPJ',]
     n_subplots = len(rois)
     fig_name = op.join(fig_dir, f'{analysis}_timecourse_allROIs.png')
 
@@ -136,10 +137,10 @@ if n_subplots == 2:
     fig.set_size_inches(fig_width, fig_height)
 else:
     fig, axes = plt.subplots(int(n_subplots/2), 2, sharex=True, sharey='row', dpi=300)
-    fig.set_size_inches(10, 8)
+    fig.set_size_inches(8, 6.5)
 # fig.subplots_adjust(hspace=0.45)
 
-for i_roi, roi in enumerate(rois):
+for i_roi, (roi, roi_name) in enumerate(zip(rois, roi_names)):
     if roi_to_plot == 'all':
         if i_roi < 2:
             axis = axes[0][i_roi]
@@ -152,6 +153,11 @@ for i_roi, roi in enumerate(rois):
         elif i_roi < 8:
             i_roi -= 6
             axis = axes[3][i_roi]
+            axis.set_xlabel('Time (s)')
+        if i_roi == 0:
+            axis.yaxis.tick_right()  # This moves the y-axis ticks to the right
+            axis.tick_params(axis='y', labelright=True, labelleft=False)  # Show labels on the right and hide them on the left
+
     elif roi_to_plot == 'ATL':
         axis = axes[i_roi]
     ds['stcs'] = stc_reset
@@ -169,12 +175,11 @@ for i_roi, roi in enumerate(rois):
         axis.plot(times, data_group_avg.x, color=color, lw=3)
         axis.fill_between(times, data_group_avg.x-error, data_group_avg.x+error, alpha=0.2, color=color)
         if roi_to_plot == 'all':
-            axis.title.set_text(roi)
+            axis.title.set_text(roi_name)
     axis.set_xlim(0., 0.8)
 
     xticks = [0., 0.2, 0.4, 0.6, 0.8]
     plt.xticks(xticks)
-    axis.set_xlabel('Time (s)')
     if roi_to_plot == 'ATL':
         axis.spines['top'].set_visible(False)
         axis.spines['right'].set_visible(False)
@@ -308,6 +313,7 @@ for i_roi, roi in enumerate(rois):
             plt.close(fig_bar)
 
 plt.tight_layout()
+plt.subplots_adjust(wspace=0.175)  # Reduce this value to bring the columns closer
 fig.savefig(fig_name)
 plt.close()
 
