@@ -38,7 +38,7 @@ to_plot = 'specificity_word'
 classifier = 'logistic'
 data_type = 'MEEG'
 # window = 'single'
-window = 'sliding'
+window = 'single'
 
 subjects = [f'sub-{subject_id}' for subject_id in config.subject_ids]
 decoding_dir = op.join(config.project_repo, 'scripts/analysis/neural/decoding')
@@ -65,8 +65,13 @@ elif to_plot == 'concreteness_xcond_full':
   
 
 scores_group = []
+# for analysis in analyses:
+#     scores = read_decoding_scores(subjects, analysis, classifier, data_type, window=window, timegen=True)
+#     scores_group.append(scores)
+#     del scores
+scores_group = []
 for analysis in analyses:
-    scores = read_decoding_scores(subjects, analysis, classifier, data_type, window=window, timegen=True)
+    scores = read_decoding_scores(subjects, analysis, classifier, data_type, window=window, roi=roi, timegen=True, micro_ave=micro_ave)
     scores_group.append(scores)
     del scores
 

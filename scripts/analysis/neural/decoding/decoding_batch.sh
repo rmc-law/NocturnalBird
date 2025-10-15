@@ -26,7 +26,7 @@ for subject in "${subjects[@]}"; do
 
     if [ "$data_type" = "ROI" ]; then
 
-        rois=("anteriortemporal-lh" "posteriortemporal-lh" "inferiorfrontal-lh" "temporoparietal-lh" "lateraloccipital-lh" )
+        rois=("anteriortemporal-lh" "posteriortemporal-lh" "inferiorfrontal-lh" "temporoparietal-lh" )
 
         for roi in "${rois[@]}"; do
 
