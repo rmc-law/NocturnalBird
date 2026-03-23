@@ -1,0 +1,101 @@
+set_nr,low_word,high_word,low_synset,high_synset,low_depth,high_depth,depth_diff,relationship,level_contrast
+1,alloy,bronze,alloy.n.01,bronze.n.01,6,8.0,2.0,indirect_hyponym,superordinate → basic
+2,amphibian,frog,amphibian.n.01,frog.n.01,11,10.0,-1.0,direct_hyponym,other
+3,bedding,blanket,bedclothes.n.01,blanket.n.01,7,8.0,1.0,direct_hyponym,other
+4,bird,cardinal,bird.n.01,cardinal.n.01,9,12.0,3.0,indirect_hyponym,basic → subordinate
+5,bird,ostrich,bird.n.01,ostrich.n.01,9,7.0,-2.0,indirect_hyponym,other
+6,bird,owl,bird.n.01,owl.n.01,9,11.0,2.0,indirect_hyponym,basic → subordinate
+7,bird,penguin,bird.n.01,penguin.n.01,9,13.0,4.0,indirect_hyponym,basic → subordinate
+8,bird,robin,bird.n.01,robin.n.01,9,13.0,4.0,indirect_hyponym,basic → subordinate
+9,bird,swan,bird.n.01,swan.n.01,9,11.0,2.0,indirect_hyponym,basic → subordinate
+10,boat,canoe,boat.n.01,canoe.n.01,10,12.0,2.0,indirect_hyponym,other
+11,boots,wellies,boot.n.01,,7,,,not_found,unknown
+12,building,barn,building.n.01,barn.n.01,6,8.0,2.0,indirect_hyponym,superordinate → basic
+13,building,church,building.n.01,church.n.01,6,7.0,1.0,indirect_hyponym,superordinate → basic
+14,building,factory,building.n.01,factory.n.01,6,8.0,2.0,no_wordnet_relation,superordinate → basic
+15,building,hospital,building.n.01,hospital.n.01,6,8.0,2.0,indirect_hyponym,superordinate → basic
+16,building,house,building.n.01,house.n.01,6,8.0,2.0,direct_hyponym,superordinate → basic
+17,building,cabin,building.n.01,cabin.n.01,6,9.0,3.0,indirect_hyponym,superordinate → basic
+18,car,BMW,car.n.01,,11,,,not_found,unknown
+19,car,limousine,car.n.01,limousine.n.01,11,12.0,1.0,direct_hyponym,other
+20,cat,cheetah,cat.n.01,cheetah.n.01,13,14.0,1.0,direct_hyponym,other
+21,cat,panther,cat.n.01,jaguar.n.01,13,14.0,1.0,indirect_hyponym,other
+22,cat,sphynx,cat.n.01,,13,,,not_found,unknown
+23,cat,tiger,cat.n.01,tiger.n.01,13,7.0,-6.0,direct_hyponym,other
+24,clothing,jumper,clothing.n.01,jumper.n.01,7,7.0,0.0,indirect_hyponym,other
+25,computer,laptop,computer.n.01,laptop.n.01,8,12.0,4.0,indirect_hyponym,basic → subordinate
+26,cook,chef,cook.n.01,chef.n.01,9,10.0,1.0,direct_hyponym,basic → subordinate
+27,cream,ointment,cream.n.01,ointment.n.01,7,8.0,1.0,no_wordnet_relation,other
+28,crime,shoplifting,crime.n.01,shoplifting.n.01,8,11.0,3.0,indirect_hyponym,basic → subordinate
+29,crowd,mob,crowd.n.01,mob.n.01,5,6.0,1.0,direct_hyponym,other
+30,device,phone,device.n.01,telephone.n.01,6,8.0,2.0,indirect_hyponym,superordinate → basic
+31,diplomat,ambassador,diplomat.n.01,ambassador.n.01,10,11.0,1.0,direct_hyponym,other
+32,dog,Chihuahua,dog.n.01,chihuahua.n.01,13,9.0,-4.0,indirect_hyponym,other
+33,dog,Labrador,dog.n.01,labrador.n.01,13,6.0,-7.0,no_wordnet_relation,other
+34,fish,flounder,fish.n.01,flounder.n.01,10,8.0,-2.0,indirect_hyponym,other
+35,flower,daffodil,flower.n.01,daffodil.n.01,10,10.0,0.0,no_wordnet_relation,other
+36,flower,rose,flower.n.01,rose.n.01,10,10.0,0.0,no_wordnet_relation,other
+37,food,pasta,food.n.01,pasta.n.01,4,7.0,3.0,indirect_hyponym,superordinate → basic
+38,fruit,banana,fruit.n.01,banana.n.01,8,9.0,1.0,indirect_hyponym,other
+39,fruit,grape,fruit.n.01,grape.n.01,8,10.0,2.0,indirect_hyponym,basic → subordinate
+40,fruit,kiwi,fruit.n.01,chinese_gooseberry.n.01,8,9.0,1.0,indirect_hyponym,other
+41,fruit,watermelon,fruit.n.01,watermelon.n.01,8,11.0,3.0,indirect_hyponym,basic → subordinate
+42,fruit,apple,fruit.n.01,apple.n.01,8,10.0,2.0,indirect_hyponym,basic → subordinate
+43,garment,jacket,garment.n.01,jacket.n.01,8,11.0,3.0,indirect_hyponym,basic → subordinate
+44,gem,emerald,gem.n.01,emerald.n.01,7,8.0,1.0,indirect_hyponym,other
+45,gem,ruby,gem.n.01,ruby.n.01,7,9.0,2.0,indirect_hyponym,other
+46,gem,sapphire,gem.n.01,sapphire.n.01,7,8.0,1.0,indirect_hyponym,other
+47,handle,knob,handle.n.01,knob.n.01,5,7.0,2.0,direct_hyponym,superordinate → basic
+48,hat,helmet,hat.n.01,helmet.n.01,9,10.0,1.0,no_wordnet_relation,basic → subordinate
+49,horse,zebra,horse.n.01,zebra.n.01,14,14.0,0.0,no_wordnet_relation,other
+50,house,mansion,house.n.01,sign_of_the_zodiac.n.01,8,5.0,-3.0,direct_hyponym,other
+51,illness,flu,illness.n.01,influenza.n.01,8,12.0,4.0,indirect_hyponym,basic → subordinate
+52,instrument,violin,instrument.n.01,violin.n.01,7,10.0,3.0,indirect_hyponym,basic → subordinate
+53,liquor,whiskey,liquor.n.01,whiskey.n.01,9,10.0,1.0,direct_hyponym,basic → subordinate
+54,male,boy,male.n.01,male_child.n.01,7,8.0,1.0,direct_hyponym,other
+55,mammal,marsupial,mammal.n.01,marsupial.n.01,9,11.0,2.0,indirect_hyponym,basic → subordinate
+56,mammal,bat,mammal.n.01,bat.n.01,9,11.0,2.0,indirect_hyponym,basic → subordinate
+57,mammal,hedgehog,mammal.n.01,porcupine.n.01,9,12.0,3.0,indirect_hyponym,basic → subordinate
+58,mammal,whale,mammal.n.01,giant.n.04,9,8.0,-1.0,indirect_hyponym,other
+59,mammal,giraffe,mammal.n.01,giraffe.n.01,9,14.0,5.0,indirect_hyponym,basic → subordinate
+60,meal,snack,meal.n.01,bite.n.04,6,7.0,1.0,direct_hyponym,superordinate → basic
+61,metal,iron,metallic_element.n.01,iron.n.01,6,7.0,1.0,direct_hyponym,superordinate → basic
+62,odour,stench,smell.n.01,malodor.n.01,8,9.0,1.0,direct_hyponym,other
+63,person,hermit,person.n.01,anchorite.n.01,6,10.0,4.0,indirect_hyponym,superordinate → subordinate
+64,planet,Saturn,planet.n.01,saturn.n.01,6,8.0,2.0,no_wordnet_relation,superordinate → basic
+65,poultry,turkey,domestic_fowl.n.01,turkey.n.01,11,12.0,1.0,direct_hyponym,other
+66,predator,shark,marauder.n.01,shark.n.01,10,13.0,3.0,no_wordnet_relation,other
+67,product,hairspray,merchandise.n.01,,6,,,not_found,unknown
+68,rank,admiral,rank.n.01,admiral.n.01,6,14.0,8.0,no_wordnet_relation,superordinate → subordinate
+69,reptile,crocodile,reptile.n.01,crocodile.n.01,9,12.0,3.0,indirect_hyponym,basic → subordinate
+70,reptile,tortoise,reptile.n.01,tortoise.n.01,9,13.0,4.0,indirect_hyponym,basic → subordinate
+71,river,stream,river.n.01,stream.n.01,5,4.0,-1.0,no_wordnet_relation,other
+72,ruler,empress,ruler.n.01,empress.n.01,7,13.0,6.0,indirect_hyponym,basic → subordinate
+73,sauce,ketchup,sauce.n.01,catsup.n.01,9,9.0,0.0,no_wordnet_relation,other
+74,sculpture,bust,sculpture.n.01,flop.n.03,8,6.0,-2.0,direct_hyponym,other
+75,seat,stool,seat.n.01,stool.n.01,7,9.0,2.0,direct_hyponym,other
+76,shoe,clogs,shoe.n.01,clog.n.01,7,7.0,0.0,no_wordnet_relation,other
+77,snacks,crisps,bite.n.04,chip.n.04,7,8.0,1.0,no_wordnet_relation,other
+78,snake,python,snake.n.01,python.n.01,11,14.0,3.0,indirect_hyponym,other
+79,sound,music,sound.n.01,music.n.01,5,4.0,-1.0,direct_hyponym,other
+80,sphere,pearl,sphere.n.01,pearl.n.01,6,9.0,3.0,direct_hyponym,superordinate → basic
+81,stick,icicle,stick.n.01,icicle.n.01,7,6.0,-1.0,no_wordnet_relation,other
+82,tool,shears,tool.n.01,shears.n.01,7,12.0,5.0,indirect_hyponym,basic → subordinate
+83,tool,spade,tool.n.01,spade.n.01,7,9.0,2.0,indirect_hyponym,other
+84,tree,fir,tree.n.01,fir.n.01,9,8.0,-1.0,indirect_hyponym,other
+85,tree,palm,tree.n.01,palm.n.01,9,6.0,-3.0,direct_hyponym,other
+86,utensil,fork,utensil.n.01,fork.n.01,7,9.0,2.0,no_wordnet_relation,other
+87,vegetable,aubergine,vegetable.n.01,eggplant.n.02,6,9.0,3.0,indirect_hyponym,superordinate → basic
+88,vegetable,carrot,vegetable.n.01,carrot.n.01,6,8.0,2.0,indirect_hyponym,superordinate → basic
+89,vegetable,corn,vegetable.n.01,corn.n.01,6,12.0,6.0,no_wordnet_relation,superordinate → subordinate
+90,vegetable,lettuce,vegetable.n.01,boodle.n.01,6,7.0,1.0,indirect_hyponym,superordinate → basic
+91,vegetable,pea,vegetable.n.01,pea.n.01,6,8.0,2.0,indirect_hyponym,superordinate → basic
+92,vegetable,potato,vegetable.n.01,potato.n.01,6,8.0,2.0,indirect_hyponym,superordinate → basic
+93,vegetable,pumpkin,vegetable.n.01,pumpkin.n.01,6,10.0,4.0,direct_hyponym,superordinate → subordinate
+94,vehicle,ambulance,vehicle.n.01,ambulance.n.01,7,12.0,5.0,indirect_hyponym,basic → subordinate
+95,vehicle,chariot,vehicle.n.01,chariot.n.01,7,11.0,4.0,indirect_hyponym,basic → subordinate
+96,vehicle,submarine,vehicle.n.01,submarine.n.01,7,13.0,6.0,indirect_hyponym,basic → subordinate
+97,vehicle,tank,vehicle.n.01,tank.n.01,7,11.0,4.0,indirect_hyponym,basic → subordinate
+98,vehicle,tractor,vehicle.n.01,tractor.n.01,7,10.0,3.0,indirect_hyponym,basic → subordinate
+99,weather,storm,weather.n.01,storm.n.01,7,7.0,0.0,no_wordnet_relation,other
+100,wine,champagne,wine.n.01,champagne.n.01,9,11.0,2.0,indirect_hyponym,basic → subordinate
