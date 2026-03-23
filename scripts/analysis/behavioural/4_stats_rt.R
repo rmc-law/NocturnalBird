@@ -73,35 +73,35 @@ control_glmer <- glmerControl(
 )
 
 # ---- Fit LMER for RT ----
-model_path_rt <- file.path(models_dir, "final_model_rt.rds")
+model_path_rt <- file.path(models_dir, "final_model_rt_log_transformed.rds")
 
 if (!file.exists(model_path_rt)) {
   cat("\n--- Fitting LMER model for RT ---\n")
   cat("Fitting maximal model: (specificity | participant) + (1 | item_nr)\n")
 
-  m_max_rt <- glmer(RT ~ specificity +
+  m_max_rt <- lmer(log(RT) ~ specificity +
                      (specificity | participant) + (1 | item_nr),
-                   data = group_data,
-                   family = inverse.gaussian(link = "identity"),
-                   control = control_glmer)
+                   data = group_data)#,
+                  #  family = inverse.gaussian(link = "identity"),
+                  #  control = control_glmer)
 
   if (isSingular(m_max_rt)) {
     cat("Maximal model is singular. Trying zero-correlation slopes...\n")
 
-    m_zc_rt <- glmer(RT ~ specificity +
+    m_zc_rt <- lmer(log(RT) ~ specificity +
                       (specificity || participant) + (1 | item_nr),
-                    data = group_data,
-                    family = inverse.gaussian(link = "identity"),
-                    control = control_lmer)
+                    data = group_data)#,
+                    # family = inverse.gaussian(link = "identity"),
+                    # control = control_lmer)
 
     if (isSingular(m_zc_rt)) {
       cat("Still singular. Trying only by-participant varying intercepts...\n")
 
-      m1_rt <- glmer(RT ~ specificity +
+      m1_rt <- lmer(log(RT) ~ specificity +
                       (1 | participant) + (1 | item_nr), 
-                    data = group_data,
-                    family = inverse.gaussian(link = "identity"),
-                    control = control_glmer)
+                    data = group_data)#,
+                    # family = inverse.gaussian(link = "identity"),
+                    # control = control_glmer)
 
       final_model_rt <- m1_rt
 
@@ -171,7 +171,7 @@ result_text_rt <- c(
 )
 
 # ---- Write output ----
-summary_file_rt <- file.path(results_dir, paste0("stats_", analysis, ".txt"))
+summary_file_rt <- file.path(results_dir, paste0("stats_", analysis, "(log_transformed).txt"))
 writeLines(result_text_rt, con = summary_file_rt)
 
 cat("\n\nAll done. RT summary written to:\n", summary_file_rt, "\n")
