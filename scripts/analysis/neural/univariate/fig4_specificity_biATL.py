@@ -244,7 +244,7 @@ fh.label_panels_mosaic(fig, ax_dict, size = 14)
 
 
 # 7. FINALIZE & SAVE
-out_fname = op.join(figures_dir, 'fig3_specificity_biATL.png')
+out_fname = op.join(figures_dir, 'fig4_specificity_biATL.png')
 plt.savefig(out_fname, dpi=300)
 plt.close()
 print(f"Saved combined figure to {out_fname}.")
