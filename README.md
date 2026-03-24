@@ -1,4 +1,4 @@
-# Conceptual specificity across single words and phrases: neural correlates and computational bases
+# Anterior temporal lobes show route-dependent sensitivity to conceptual specificity: Evidence from MEG and EEG
 
 This is a repository for the publication:
 Law, R. M., Hauk, O., & Lambon Ralph, M. A. (in preparation). Anterior temporal lobes show route-dependent sensitivity to conceptual specificity: Evidence from MEG and EEG.
@@ -20,11 +20,9 @@ This repository contains all analyses and materials unique to this study:
 * **Computational validation:** WordNet hypernym depth analysis and Sentence-BERT cosine similarity metrics to independently verify the specificity structure of the stimulus set.
 * **Univariate ERP analysis:** N400 and late component analyses across centroparietal electrodes (350–500 ms and 600–800 ms post-noun onset).
 * **Univariate ROI analysis:** Mass-univariate ROI analysis using cluster-based permutation tests (Eelbrain), with FDR correction across eight bilateral ROIs (ATL, PTL, IFC, TPC).
-* **Multivariate decoding analysis:** Time-resolved decoding and temporal generalisation (Scikit-learn), plus hybrid Python/R mixed-effects modelling.
 
-`mne.yml` contains all the main Python packages I used for this study. To create a conda environment from this file:
-`conda env create -f mne.yml`
-`eelbrain.yml` contains the packages for using eelbrain for running the ROI analyses.
+`mne.yml` contains all the main Python packages I used for this study. `eelbrain.yml` contains the packages for using eelbrain for running the ROI analyses. To create a conda environment from these files: `conda env create -f mne.yml` or `conda env create -f eelbrain.yml`.
+
 
 ## Data availability
 
