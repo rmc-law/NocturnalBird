@@ -1,10 +1,5 @@
 # Anterior temporal lobes show route-dependent sensitivity to conceptual specificity: Evidence from MEG and EEG
 
-This is a repository for the publication:
-Law, R. M., Hauk, O., & Lambon Ralph, M. A. (in preparation). Anterior temporal lobes show route-dependent sensitivity to conceptual specificity: Evidence from MEG and EEG.
-
-OSF: https://osf.io/m82nb/
-
 > **👋** Note: This repository is currently under active development. While it contains the core analysis scripts for the manuscript, we are currently tidying the documentation and validating the environment.
 
 The study uses concurrent **MEG/EEG** and **structural MRI** to investigate whether neural responses in the Anterior Temporal Lobe (ATL) scale continuously with conceptual specificity regardless of whether meaning is accessed lexically (single words) or compositionally (adjective–noun phrases), using a parametric three-level specificity design (e.g., *bird* → *nocturnal bird* → *owl*).
@@ -22,4 +17,4 @@ The study uses concurrent **MEG/EEG** and **structural MRI** to investigate whet
 
 ## Data availability
 
-The raw MEG, EEG, and MRI data are BIDS formatted and were collected as part of the same data collection effort as the [FakeDiamond](https://github.com/rmc-law/FakeDiamond) study. Data will be hosted at the MRC Cognition and Brain Sciences Unit (link to follow).
+The raw MEG, EEG, and MRI data are BIDS formatted.
